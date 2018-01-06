@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg3699"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Main.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="E:\Work\_Images\Screens\logo_cash.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="display:inline"
+   enable-background="new">
+  <defs
+     id="defs3701">
+    <linearGradient
+       id="linearGradient3613">
+      <stop
+         style="stop-color:#ffa100;stop-opacity:1;"
+         offset="0"
+         id="stop3615" />
+      <stop
+         style="stop-color:#ffa100;stop-opacity:0.50196081;"
+         offset="1"
+         id="stop3617" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3578">
+      <stop
+         style="stop-color:#009b3a;stop-opacity:1;"
+         offset="0"
+         id="stop3580" />
+      <stop
+         style="stop-color:#006930;stop-opacity:1;"
+         offset="1"
+         id="stop3582" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter10051">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.10608172"
+         id="feGaussianBlur10053" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3255">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.44321899"
+         id="feGaussianBlur3257" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3807">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.098498179"
+         id="feGaussianBlur3809" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5298">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.21022339"
+         id="feGaussianBlur5300" />
+    </filter>
+    <linearGradient
+       id="linearGradient4404">
+      <stop
+         style="stop-color:#16aa00;stop-opacity:1;"
+         offset="0"
+         id="stop4406" />
+      <stop
+         style="stop-color:#16aa00;stop-opacity:0;"
+         offset="1"
+         id="stop4408" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4404"
+       id="radialGradient5717"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.3847555,4.4474052e-8,0,0.2931253,-783.80538,235.6991)"
+       cx="359.61429"
+       cy="552.33667"
+       fx="359.61429"
+       fy="552.33667"
+       r="299.495" />
+    <linearGradient
+       id="linearGradient6512">
+      <stop
+         id="stop6514"
+         offset="0"
+         style="stop-color:#00a94e;stop-opacity:1;" />
+      <stop
+         id="stop6516"
+         offset="1"
+         style="stop-color:#00a94e;stop-opacity:0.24705882;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6481">
+      <stop
+         style="stop-color:#00a94e;stop-opacity:0.39215687;"
+         offset="0"
+         id="stop6483" />
+      <stop
+         style="stop-color:#00a94e;stop-opacity:0;"
+         offset="1"
+         id="stop6485" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6473">
+      <stop
+         style="stop-color:#006535;stop-opacity:1;"
+         offset="0"
+         id="stop6475" />
+      <stop
+         style="stop-color:#006535;stop-opacity:0;"
+         offset="1"
+         id="stop6477" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3753">
+      <stop
+         id="stop3755"
+         offset="1"
+         style="stop-color:#00a94e;stop-opacity:1" />
+      <stop
+         id="stop3757"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11661">
+      <stop
+         style="stop-color:#c8e2f5;stop-opacity:1;"
+         offset="0"
+         id="stop11663" />
+      <stop
+         id="stop11682"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#c8e2f5;stop-opacity:0.24705882;"
+         offset="0.37288135"
+         id="stop11684" />
+      <stop
+         style="stop-color:#c8e2f5;stop-opacity:0;"
+         offset="1"
+         id="stop11665" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11599">
+      <stop
+         style="stop-color:#747f8a;stop-opacity:1;"
+         offset="0"
+         id="stop11601" />
+      <stop
+         style="stop-color:#747f8a;stop-opacity:0;"
+         offset="1"
+         id="stop11603" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11330">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11332" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop11334" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8898">
+      <stop
+         style="stop-color:#53c588;stop-opacity:0.15074366"
+         offset="0"
+         id="stop8900" />
+      <stop
+         style="stop-color:#3ccf23;stop-opacity:0;"
+         offset="1"
+         id="stop8902" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8803">
+      <stop
+         style="stop-color:#00aa4e;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop8805" />
+      <stop
+         id="stop7785"
+         offset="0.5"
+         style="stop-color:#00a94e;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00a94e;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop7801" />
+      <stop
+         style="stop-color:#00a94e;stop-opacity:0;"
+         offset="1"
+         id="stop8807" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3707" />
+    <inkscape:perspective
+       id="perspective3876"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4402"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5132"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5145"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5158"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5171"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8803"
+       id="linearGradient8809"
+       x1="82.893959"
+       y1="271.25696"
+       x2="204.57185"
+       y2="271.25696"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective8874"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient11635"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <inkscape:perspective
+       id="perspective11676"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11698"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11711"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient3817"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient3819"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient3880"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient3882"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient3904"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient3906"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient3921"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11599"
+       id="linearGradient3923"
+       gradientUnits="userSpaceOnUse"
+       x1="82.958984"
+       y1="273.0636"
+       x2="426.34277"
+       y2="273.0636" />
+    <inkscape:perspective
+       id="perspective6377"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6429"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6442"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6455"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6502"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6512"
+       id="linearGradient6510"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.6417432,-1e-7,265.76801)"
+       x1="512"
+       y1="0.52955192"
+       x2="512"
+       y2="735.15759" />
+    <filter
+       inkscape:collect="always"
+       id="filter6575">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.28710274"
+         id="feGaussianBlur6577" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8803"
+       id="linearGradient6626"
+       gradientUnits="userSpaceOnUse"
+       x1="512"
+       y1="768"
+       x2="512"
+       y2="733.80524"
+       gradientTransform="translate(-8.0151367e-7,3.3551636e-5)" />
+    <inkscape:perspective
+       id="perspective6654"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6754"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6767"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6780"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2588"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2601"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2614"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5465"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5624"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3095"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3108"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4602"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4715"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2769"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2782"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2795"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2808"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2853"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2866"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2879"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2918"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2995"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3008"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3861"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3874"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3887"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3900"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3913"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3951"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3964"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2618"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2631"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2644"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2657"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2694"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2707"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8803"
+       id="linearGradient7775"
+       x1="18.633265"
+       y1="800.27264"
+       x2="1043.8767"
+       y2="800.27264"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8803"
+       id="linearGradient9163"
+       gradientUnits="userSpaceOnUse"
+       x1="18.633265"
+       y1="800.27264"
+       x2="1043.8767"
+       y2="800.27264" />
+    <inkscape:perspective
+       id="perspective3491"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3505"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3518"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3542"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3555"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3629"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3642"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2799"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3578"
+       id="linearGradient3576"
+       x1="-281.14371"
+       y1="2.3850174"
+       x2="-281.31549"
+       y2="-89.051857"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2076366,0,0,1.185123,-385.42919,10.415763)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3578"
+       id="linearGradient3586"
+       gradientUnits="userSpaceOnUse"
+       x1="-446.37164"
+       y1="12.961678"
+       x2="-446.37164"
+       y2="-55.699402"
+       gradientTransform="matrix(0.2076366,0,0,1.185123,-385.42919,10.415763)" />
+    <inkscape:perspective
+       id="perspective2815"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2828"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2843"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3613"
+       id="linearGradient3619"
+       x1="826.67523"
+       y1="230.42728"
+       x2="810.67523"
+       y2="167.42728"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective2873"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2886"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="571.98907"
+     inkscape:cy="387.25692"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1272"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     width="744.09px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3882"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3704">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="BG"
+     style="display:inline"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="_BB"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2403"
+       width="178.57143"
+       height="82.85714"
+       x="1268.6931"
+       y="6.3334808" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2405"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:114.99999762%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       transform="translate(1464.9817,-313.1418)"><flowRegion
+         id="flowRegion2407"><rect
+           id="rect2409"
+           width="290.85428"
+           height="254.50615"
+           x="21.428572"
+           y="325.21933"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:114.99999762%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana" /></flowRegion><flowPara
+         id="flowPara3769">О СН О В Н Ы Е  Ц В ЕТА</flowPara><flowPara
+         id="flowPara3771">PANTONE можно использовать при печати в две и более краски (для эффективной передачи корпоративны х цветов возможно использование красок Pantone и при полноцветной печати).</flowPara><flowPara
+         id="flowPara3773">Модель CMYK использую т при полноцветной печати.</flowPara><flowPara
+         id="flowPara3775">Модель RGB использую т для обозначения цветов в электронных носителях инф орм ации, таких как</flowPara><flowPara
+         id="flowPara3777">веб-сайт и электронная презентация.</flowPara><flowPara
+         id="flowPara3779">Модель ORACAL используют в наружной рекламе, когда невозможна печать с использованием цветов Pantone.</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#00693c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3379"
+       width="178.57143"
+       height="82.85714"
+       x="1268.6931"
+       y="107.41411" />
+    <rect
+       style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3381"
+       width="178.57143"
+       height="82.85714"
+       x="1268.6931"
+       y="203.88371" />
+    <rect
+       y="314.93503"
+       x="1268.6931"
+       height="74.270844"
+       width="125.53842"
+       id="rect3383"
+       style="opacity:1;fill:#ffa100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#007ac9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3385"
+       width="130.58919"
+       height="73.260689"
+       x="1267.6829"
+       y="414.43506" />
+    <rect
+       y="505.34872"
+       x="1270.7134"
+       height="68.20993"
+       width="123.51811"
+       id="rect3387"
+       style="opacity:1;fill:#b53b7c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#c9cac8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3389"
+       width="128.56888"
+       height="57.098251"
+       x="1269.0052"
+       y="605.85895" />
+    <flowRoot
+       transform="translate(1044.2259,-318.29409)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       id="flowRoot3391"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3393"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="325.21933"
+           x="21.428572"
+           height="175.71426"
+           width="234.28575"
+           id="rect3395" /></flowRegion><flowPara
+         id="flowPara3431">Pantone 355 C</flowPara><flowPara
+         id="flowPara3433">CMYK 94-0-100-0</flowPara><flowPara
+         id="flowPara3435">RGB 0-155-58</flowPara><flowPara
+         id="flowPara3437">HTML 009B3A</flowPara><flowPara
+         id="flowPara3439">RAL ~</flowPara><flowPara
+         id="flowPara3441">(068 травянисто зеленый)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3443"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       transform="translate(1044.2259,-218.28899)"><flowRegion
+         id="flowRegion3445"><rect
+           id="rect3447"
+           width="234.28575"
+           height="175.71426"
+           x="21.428572"
+           y="325.21933"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana" /></flowRegion><flowPara
+         id="flowPara3473">Pantone 349 C</flowPara><flowPara
+         id="flowPara3475">CMYK 91-12-92-44</flowPara><flowPara
+         id="flowPara3477">RGB 0-105-60</flowPara><flowPara
+         id="flowPara3479">RAL ~</flowPara><flowPara
+         id="flowPara3481">(613 лесной зеленый)</flowPara></flowRoot>    <flowRoot
+       transform="translate(1044.2259,-116.26358)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       id="flowRoot3483"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3485"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="325.21933"
+           x="21.428572"
+           height="175.71426"
+           width="234.28575"
+           id="rect3487" /></flowRegion><flowPara
+         id="flowPara3499">Pantone Pro. Black C</flowPara><flowPara
+         id="flowPara3501">CMYK 0-0-0-100</flowPara><flowPara
+         id="flowPara3503">RGB 30-30-30</flowPara><flowPara
+         id="flowPara3505">HTML 1E1E1E</flowPara><flowPara
+         id="flowPara3507">RAL 9005 (черный)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3509"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       transform="translate(1044.2259,-2.1163402)"><flowRegion
+         id="flowRegion3511"><rect
+           id="rect3513"
+           width="234.28575"
+           height="175.71426"
+           x="21.428572"
+           y="325.21933"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana" /></flowRegion><flowPara
+         id="flowPara3525">Pantone 137 C</flowPara><flowPara
+         id="flowPara3527">CMYK 0-46-100-0</flowPara><flowPara
+         id="flowPara3529">RGB 255-161-00</flowPara><flowPara
+         id="flowPara3531">HTML FFA100</flowPara><flowPara
+         id="flowPara3533">RAL 2003</flowPara><flowPara
+         id="flowPara3535">(пастельно-оранжевый)</flowPara></flowRoot>    <flowRoot
+       transform="translate(1043.2158,94.858299)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       id="flowRoot3537"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3539"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="325.21933"
+           x="21.428572"
+           height="175.71426"
+           width="234.28575"
+           id="rect3541" /></flowRegion><flowPara
+         id="flowPara3591">Pantone 3005 C</flowPara><flowPara
+         id="flowPara3593">CMYK 100-32-0-0</flowPara><flowPara
+         id="flowPara3595">RGB 0-122-201</flowPara><flowPara
+         id="flowPara3597">RAL ~</flowPara><flowPara
+         id="flowPara3599">(небесно-голубой)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3555"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       transform="translate(1043.2158,180.72127)"><flowRegion
+         id="flowRegion3557"><rect
+           id="rect3559"
+           width="234.28575"
+           height="175.71426"
+           x="21.428572"
+           y="325.21933"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana" /></flowRegion><flowPara
+         id="flowPara3601">CMYK 20-90-11-0</flowPara><flowPara
+         id="flowPara3603">RGB 181-59-124</flowPara><flowPara
+         id="flowPara3605">RAL ~</flowPara><flowPara
+         id="flowPara3607">(сиреневы й)</flowPara></flowRoot>    <flowRoot
+       transform="translate(1043.2158,271.635)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       id="flowRoot3573"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3575"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="325.21933"
+           x="21.428572"
+           height="175.71426"
+           width="234.28575"
+           id="rect3577" /></flowRegion><flowPara
+         id="flowPara3609">Pantone Cool Grey 3 C</flowPara><flowPara
+         id="flowPara3611">CMYK 8-5-6-16</flowPara><flowPara
+         id="flowPara3613">RGB 201-202-200</flowPara><flowPara
+         id="flowPara3615">RAL 7035</flowPara><flowPara
+         id="flowPara3617">(светло-серый)</flowPara></flowRoot>    <flowRoot
+       transform="translate(1461.9512,-6.0554302)"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:114.99999762%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+       id="flowRoot3619"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3621"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:114.99999762%;writing-mode:lr-tb;text-anchor:start;font-family:Verdana;-inkscape-font-specification:Verdana"
+           y="325.21933"
+           x="21.428572"
+           height="354.51126"
+           width="297.92535"
+           id="rect3623" /></flowRegion><flowPara
+         id="flowPara3743">Д О П О Л Н И ТЕЛ Ь Н Ы Е   Ц В ЕТА</flowPara><flowPara
+         id="flowPara3745">Дополнительные цвета вы полняют вспомогательную роль.</flowPara><flowPara
+         id="flowPara3747">Использование других цветов недопустимо</flowPara><flowPara
+         id="flowPara3749" /><flowPara
+         id="flowPara3751">Внутренние вы вески, а также и некоторы е элем енты рекламных и POS-материалов создаются с</flowPara><flowPara
+         id="flowPara3753">использованием основных фирменных цветов. Реклам ны е печатные материалы, вы вески наружные и внутренние, баннеры в Интернете, телевизионная реклама выполняются с применением дополнительных цветов. Примеры создания рекламных макетов приведены также в соответствующих разделах брендбука. При создании рекламных сообщений с новым и предложениями используются основные фирменные цвета.</flowPara><flowPara
+         id="flowPara3755" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="info"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g6628" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3677"
+       style="font-size:17.01244354px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#007ac9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.42531109;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicHeavyC;-inkscape-font-specification:FranklinGothicHeavyC"
+       transform="matrix(1.0031455,0,0,0.8817442,6.8773943,83.45757)"><flowRegion
+         id="flowRegion3679"><rect
+           id="rect3681"
+           width="174.66846"
+           height="39.804695"
+           x="1"
+           y="735"
+           style="font-size:17.01244354px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#007ac9;fill-opacity:1;stroke:none;stroke-width:0.42531109;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:FranklinGothicHeavyC;-inkscape-font-specification:FranklinGothicHeavyC" /></flowRegion><flowPara
+         id="flowPara3754">www.akbars.ru</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.0031455,0,0,0.8817442,252.87327,81.133935)"
+       style="font-size:17.01244354px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#007ac9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.42531109;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC"
+       id="flowRoot3687"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3689"><rect
+           style="font-size:17.01244354px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#007ac9;fill-opacity:1;stroke:none;stroke-width:0.42531109;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC"
+           y="735"
+           x="1"
+           height="20.524727"
+           width="875.46405"
+           id="rect3691" /></flowRegion><flowPara
+         id="flowPara3703">Нижнекамский филиал ОАО «Ак Барс» Банк «Интеркама» Телефон для справок: (8555) 30-96-34</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3705"
+       style="font-size:11.69605541px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.42531109;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicBookC;-inkscape-font-specification:FranklinGothicBookC"
+       transform="matrix(1.0031455,0,0,0.8817442,-12.12673,100.56825)"><flowRegion
+         id="flowRegion3707"><rect
+           id="rect3709"
+           width="1023"
+           height="33"
+           x="1"
+           y="735"
+           style="font-size:11.69605541px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;writing-mode:lr-tb;text-anchor:end;fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:0.42531109;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:FranklinGothicBookC;-inkscape-font-specification:FranklinGothicBookC" /></flowRegion><flowPara
+         id="flowPara3715">Генеральная лицензия ЦБ РФ № 2590 от 2 сентября 2002 года</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.0031455,0,0,0.8817442,6.8997931,100.6064)"
+       style="font-size:13.82261086px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#007ac9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.42531109;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicHeavyC;-inkscape-font-specification:FranklinGothicHeavyC"
+       id="flowRoot3741"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3743"><rect
+           style="font-size:13.82261086px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#007ac9;fill-opacity:1;stroke:none;stroke-width:0.42531109;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:FranklinGothicHeavyC;-inkscape-font-specification:FranklinGothicHeavyC"
+           y="735"
+           x="1"
+           height="39.804695"
+           width="174.66846"
+           id="rect3745" /></flowRegion><flowPara
+         id="flowPara3752">www.interkama.ru</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="notice"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       style="display:inline"
+       id="g3640"
+       transform="translate(105.24769,487.57272)">
+      <rect
+         rx="1.4142137"
+         ry="0"
+         y="160.42728"
+         x="99.752312"
+         height="70"
+         width="670"
+         id="rect2803"
+         style="opacity:1;fill:#00693c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g3630">
+        <flowRoot
+           transform="matrix(1.3466182,0,0,1.1836497,-293.3941,-686.64192)"
+           style="font-size:28.5146904px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicBookC;-inkscape-font-specification:FranklinGothicBookC"
+           id="flowRoot2805"
+           xml:space="preserve"><flowRegion
+             id="flowRegion2807"><rect
+               style="font-size:28.5146904px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:FranklinGothicBookC;-inkscape-font-specification:FranklinGothicBookC"
+               y="735"
+               x="1"
+               height="28.990295"
+               width="1019.6137"
+               id="rect2809" /></flowRegion><flowPara
+             id="flowPara2813">ВСТАВЬТЕ, ПОЖАЛУЙСТА, КАРТУ</flowPara></flowRoot>        <g
+           id="g3621"
+           transform="translate(0,1)">
+          <path
+             sodipodi:type="arc"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#009b3a;stroke-width:4.28046274;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path2849"
+             sodipodi:cx="654.42731"
+             sodipodi:cy="195.06673"
+             sodipodi:rx="27.577164"
+             sodipodi:ry="24.925514"
+             d="M 682.00447,195.06673 A 27.577164,24.925514 0 1 1 626.85014,195.06673 A 27.577164,24.925514 0 1 1 682.00447,195.06673 z"
+             transform="matrix(0.8884164,0,0,0.9829286,131.34878,2.405868)" />
+          <rect
+             style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect3719"
+             width="21.86097"
+             height="13"
+             x="705.31482"
+             y="188.6617"
+             ry="0.875"
+             rx="0.875" />
+          <rect
+             y="191.5367"
+             x="705.37732"
+             height="3.25"
+             width="21.86097"
+             id="rect3721"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="-704.6828"
+             x="188.76247"
+             height="3.3125"
+             width="17.731506"
+             id="rect3723"
+             style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             transform="matrix(0,1,-1,0,0,0)"
+             ry="1.3125"
+             rx="1.3125" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect3725"
+             width="8.0752554"
+             height="2.25"
+             x="179.63747"
+             y="-707.52655"
+             ry="0.5625"
+             rx="0.5625" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect3729"
+             width="8.0752554"
+             height="2.25"
+             x="179.63747"
+             y="-711.40155"
+             ry="0.6875"
+             rx="0.6875" />
+          <rect
+             y="-715.52655"
+             x="179.63747"
+             height="2.25"
+             width="8.0752554"
+             id="rect3731"
+             style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             transform="matrix(0,1,-1,0,0,0)"
+             ry="0.6875"
+             rx="0.6875" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect3733"
+             width="8.0752554"
+             height="2.25"
+             x="179.63747"
+             y="-719.33905"
+             ry="0.5625"
+             rx="0.5625" />
+          <rect
+             y="203.0992"
+             x="701.37732"
+             height="4.8125"
+             width="18.23597"
+             id="rect3735"
+             style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             ry="2.9375"
+             rx="2.9375" />
+          <rect
+             ry="0.875"
+             y="203.0367"
+             x="701.50232"
+             height="3.3125"
+             width="18.17347"
+             id="rect3737"
+             style="opacity:1;fill:#009b3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             rx="0.875" />
+        </g>
+      </g>
+      <rect
+         style="opacity:1;fill:url(#linearGradient3619);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3628"
+         width="150"
+         height="70"
+         x="768.67523"
+         y="160.42728"
+         ry="0"
+         rx="1.4142137" />
+    </g>
+  </g>
+  <g
+     inkscape:label="header"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       style="display:inline"
+       id="g3639"
+       transform="matrix(3.5285381,0,0,3.5285381,-13.158378,-30.335489)" />
+    <g
+       style="display:inline"
+       transform="matrix(1.1590056,0,0,1.1590056,992.07511,186.61829)"
+       id="g5562">
+      <g
+         id="g5509"
+         transform="matrix(0.4818166,0,0,0.4818166,-269.41145,-151.77235)"
+         inkscape:export-filename="E:\Work\_Images\logo.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         style="display:inline">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21602701;display:inline"
+           d="M 23.181922,83.44705 L 10.886022,102.58545 L 15.647782,102.58545 L 17.810402,99.00385 L 24.755022,99.00385 L 25.025722,102.58545 L 29.810222,102.58545 L 27.747822,83.44705 L 23.181922,83.44705 z M 19.666502,95.75035 L 24.137822,88.45045 L 24.642422,95.75035 L 19.666502,95.75035 z M 100.27612,83.44705 L 95.148022,102.58545 L 99.659222,102.58545 L 101.42472,95.99645 L 105.71732,95.99645 C 108.04132,95.99645 113.14722,95.61375 114.75122,89.62595 C 116.01922,84.89615 113.07122,83.44705 109.18932,83.44705 L 100.27612,83.44705 z M 103.79102,87.16525 L 107.31802,87.16525 C 108.32962,87.16525 110.57322,87.05605 109.87722,89.65345 C 109.37942,91.51255 108.08072,92.27805 105.94802,92.27805 L 102.42102,92.27805 L 103.79102,87.16525 z M 127.23422,95.67745 C 126.69322,97.02195 125.31822,99.06465 122.52622,99.06465 C 119.63022,99.06465 118.73722,96.60825 119.65122,93.19545 C 121.27222,87.14505 124.68222,86.96385 125.63922,86.96385 C 126.62122,86.96385 128.99122,87.09315 128.56922,90.11835 L 132.75822,90.11835 C 133.34222,87.45525 132.78722,83.44735 126.37422,83.44735 C 124.64222,83.44735 117.56422,83.80935 115.00722,93.35045 C 113.10222,100.46095 116.77322,102.58565 121.40122,102.58565 C 127.81422,102.58565 130.46322,98.39245 131.47522,95.67745 L 127.23422,95.67745 z M 147.76922,87.16525 L 158.13122,87.16525 L 159.12822,83.44705 L 144.25422,83.44705 L 139.12622,102.58545 L 148.25822,102.58545 C 152.68722,102.58545 156.02922,100.72635 157.07622,96.81655 C 158.71722,90.69225 153.06722,90.55565 151.48122,90.55565 L 146.86122,90.55565 L 147.76922,87.16525 z M 145.86422,94.27385 L 149.61022,94.27385 C 150.70422,94.27385 152.85422,94.41065 152.23922,96.70725 C 151.75522,98.51175 150.07422,98.86725 148.29722,98.86725 L 144.63422,98.86725 L 145.86422,94.27385 z M 183.04222,94.35595 L 189.98722,94.35595 L 187.78222,102.58545 L 192.29322,102.58545 L 197.42122,83.44705 L 192.91022,83.44705 L 190.98322,90.63755 L 184.03922,90.63755 L 185.96522,83.44705 L 181.45422,83.44705 L 176.32622,102.58545 L 180.83722,102.58545 L 183.04222,94.35595 z M 38.938922,91.23915 L 41.026922,83.44705 L 36.515722,83.44705 L 31.387622,102.58545 L 35.898822,102.58545 L 37.525022,96.51595 L 40.271122,94.32855 L 43.800322,102.58545 L 49.432622,102.58545 L 44.179322,91.37585 L 53.986522,83.44705 L 48.354322,83.44705 L 38.938922,91.23915 z M 87.068822,83.44705 L 74.772922,102.58545 L 79.534722,102.58545 L 81.697322,99.00385 L 88.641922,99.00385 L 88.912622,102.58545 L 93.697222,102.58545 L 91.634722,83.44705 L 87.068822,83.44705 z M 83.553422,95.75035 L 88.024722,88.45045 L 88.529322,95.75035 L 83.553422,95.75035 z M 168.43022,83.44705 L 156.13422,102.58545 L 160.89622,102.58545 L 163.05822,99.00385 L 170.00322,99.00385 L 170.27422,102.58545 L 175.05822,102.58545 L 172.99622,83.44705 L 168.43022,83.44705 z M 164.91422,95.75035 L 169.38622,88.45045 L 169.89022,95.75035 L 164.91422,95.75035 z M 203.16922,91.23915 L 205.25722,83.44705 L 200.74622,83.44705 L 195.61822,102.58545 L 200.12922,102.58545 L 201.75622,96.51595 L 204.50222,94.32855 L 208.03122,102.58545 L 213.66322,102.58545 L 208.41022,91.37585 L 218.21722,83.44705 L 212.58522,83.44705 L 203.16922,91.23915 z M 66.194522,87.16525 L 76.556822,87.16525 L 77.553122,83.44705 L 62.679622,83.44705 L 57.551522,102.58545 L 66.683322,102.58545 C 71.112622,102.58545 74.454122,100.72635 75.501822,96.81655 C 77.142722,90.69225 71.492522,90.55565 69.906722,90.55565 L 65.286122,90.55565 L 66.194522,87.16525 z M 64.289822,94.27385 L 68.035422,94.27385 C 69.129222,94.27385 71.279722,94.41065 70.664422,96.70725 C 70.180822,98.51175 68.499922,98.86725 66.722722,98.86725 L 63.059022,98.86725 L 64.289822,94.27385 z"
+           id="path5511" />
+        <g
+           id="g5513">
+          <path
+             style="fill:#00a94e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+             d="M 43.205232,38.82438 L 74.829492,7.1993797 L 85.767362,7.1993797 L 96.705232,7.1993797 L 96.705232,31.07438 L 96.705232,54.94938 L 114.45523,54.94938 L 132.20523,54.94938 L 132.20523,46.69938 L 132.20523,38.44938 L 115.05468,38.44938 L 97.904142,38.44938 L 105.49218,30.71131 L 113.08023,22.97324 L 130.39273,22.96131 L 147.70523,22.94938 L 147.70523,40.38871 L 147.70523,57.82805 L 141.39093,64.13871 L 135.07663,70.44938 L 108.14093,70.44938 L 81.205232,70.44938 L 81.205232,46.51261 L 81.205232,22.57583 L 65.079462,38.70011 L 48.953692,54.82438 L 64.763562,54.88877 L 80.573442,54.95315 L 72.828332,62.70127 L 65.083252,70.44938 L 38.332112,70.44938 L 11.580972,70.44938 L 43.205232,38.82438 z"
+             id="path5515" />
+          <path
+             style="fill:#00a94e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+             d="M 151.45523,38.82438 L 151.45523,7.1993797 L 159.20523,7.1993797 L 166.95523,7.1993797 L 166.95523,31.07438 L 166.95523,54.94938 L 184.70523,54.94938 L 202.45523,54.94938 L 202.45523,46.69938 L 202.45523,38.44938 L 185.14423,38.44938 L 167.83325,38.44938 L 175.58023,30.69938 L 183.3272,22.94938 L 200.64123,22.94938 L 217.95523,22.94938 L 217.95523,40.38871 L 217.95523,57.82805 L 211.64093,64.13871 L 205.32663,70.44938 L 178.39093,70.44938 L 151.45523,70.44938 L 151.45523,38.82438 z"
+             id="path5517" />
+        </g>
+      </g>
+      <g
+         transform="translate(216.236,-178)"
+         id="g5519">
+        <text
+           xml:space="preserve"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold Italic"
+           x="-374.49234"
+           y="73.245872"
+           id="text5521"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9741514,1.0265345)"><tspan
+             sodipodi:role="line"
+             id="tspan5523"
+             x="-374.49234"
+             y="73.245872"
+             style="font-size:11px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold Italic">НИЖНЕКАМСКИЙ ФИЛИАЛ</tspan></text>
+        <text
+           transform="scale(0.9824425,1.0178713)"
+           sodipodi:linespacing="125%"
+           id="text5525"
+           y="31.620533"
+           x="-370.72757"
+           style="font-size:11px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana TAT;-inkscape-font-specification:Verdana TAT Bold Italic"
+           xml:space="preserve"><tspan
+             y="31.620533"
+             x="-370.72757"
+             id="tspan5527"
+             sodipodi:role="line">ТЊБЂН   КАМА   ФИЛИАЛЫ</tspan></text>
+        <g
+           transform="translate(-5,-46.999156)"
+           id="g5529">
+          <path
+             id="path5531"
+             d="M -233.99611,107.36218 L -233.99611,84.362183 L -228.54156,84.362183 L -221.99611,101.36218 L -215.45066,84.362183 L -215.45066,84.362183 L -209.99611,84.362183 L -209.99611,107.36218 L -215.45066,107.36218 L -215.45066,98.362183 L -219.81429,107.36218 L -224.17793,107.36218 L -228.54156,97.362183 L -228.54156,107.36218 L -233.99611,107.36218 z"
+             style="fill:#00a94e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+          <path
+             style="fill:#00a94e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+             d="M -360,107.36137 L -360,84.361373 L -354.28572,84.361373 L -354.28572,97.361373 L -349.71428,87.361373 L -349.71428,84.361373 L -344,84.361373 L -344,107.36137 L -349.71428,107.36137 L -349.71428,95.361373 L -354.28572,104.36137 L -354.28572,107.36137 L -360,107.36137 z"
+             id="path5533" />
+          <path
+             style="fill:#00a94e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+             d="M -342,107.36137 L -342,84.361373 L -336.28572,84.361373 L -336.28572,93.361373 L -331.71428,93.361373 L -331.71428,84.361373 L -326,84.361373 L -326,107.36137 L -331.71428,107.36137 L -331.71428,98.361373 L -336.28572,98.361373 L -336.28572,107.36137 L -342,107.36137 z"
+             id="path5535" />
+          <path
+             style="fill:#00a94e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+             d="M -318.66667,107.36137 L -318.66667,89.361373 L -324,89.361373 L -324,84.361373 L -308,84.361373 L -308,89.361373 L -313.33333,89.361373 L -313.33333,107.36137 L -318.66667,107.36137 z"
+             id="path5537" />
+          <path
+             style="fill:#00a94e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+             d="M -269.98853,107.36218 L -269.98853,84.362183 L -264.27424,84.362183 L -264.27424,93.362183 L -259.70282,84.362183 L -253.98853,84.362183 L -258.55996,95.362183 L -253.98853,107.36218 L -259.70282,107.36218 L -264.27424,98.362183 L -264.27424,107.36218 L -269.98853,107.36218 z"
+             id="path5539" />
+          <g
+             id="g5541"
+             transform="matrix(1.1423295,0,0,1,53.852649,115.00457)"
+             style="fill:#00a94e;fill-opacity:1;display:inline">
+            <path
+               d="M -315,-10.642391 L -315,-27.642391 C -314.79401,-29.363851 -313.93331,-30.490721 -312,-30.642391 L -304,-30.642391 C -302.38354,-30.663861 -300.88255,-29.210761 -301,-27.642391 L -301,-16.642391 L -310,-16.642391 L -310,-12.642391 L -305,-12.642391 C -305.02349,-13.073891 -304.71922,-14.632251 -303,-14.642391 C -301.14764,-14.653321 -300.99011,-12.775771 -301,-12.642391 L -301,-10.642391 C -301.15168,-8.8046811 -302.18176,-7.8343811 -304,-7.6423911 L -312,-7.6423911 C -313.43094,-7.8420711 -314.78397,-8.1864511 -315,-10.642391 z M -310,-21.642391 L -310,-25.642391 L -306,-25.642391 C -305.21543,-25.621451 -305.02427,-25.189691 -305,-24.642391 L -305,-22.642391 C -305.13447,-22.152801 -305.45316,-21.807971 -306,-21.642391 L -310,-21.642391 z"
+               style="fill:#00a94e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path5543" />
+          </g>
+          <g
+             id="g5545"
+             transform="matrix(1.1428571,0,0,1,51.440029,115.00457)"
+             style="fill:#00a94e;fill-opacity:1;display:inline">
+            <path
+               d="M -297,-7.6423911 L -297,-30.642391 L -286,-30.642391 C -283.55938,-30.400611 -283.24932,-29.037491 -283,-27.642391 L -283,-19.642391 C -283.31226,-17.190491 -284.65161,-16.906911 -286,-16.642391 L -292,-16.642391 L -292,-7.6423911 L -297,-7.6423911 z M -292,-21.642391 L -292,-25.642391 L -288,-25.642391 C -287.37732,-25.598411 -287.03347,-25.275591 -287,-24.642391 L -287,-22.642391 C -287.21918,-21.928541 -287.60797,-21.780061 -288,-21.642391 L -292,-21.642391 z"
+               style="fill:#00a94e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path5547" />
+          </g>
+          <g
+             id="g5549"
+             transform="matrix(1.2307692,0,0,1,69.242232,115.00457)"
+             style="fill:#00a94e;fill-opacity:1;display:inline">
+            <path
+               sodipodi:nodetypes="ccccccccccccccccccc"
+               d="M -261,-30.642391 L -251,-30.642391 C -248.9304,-30.456211 -248.1587,-29.282511 -248,-27.642391 L -248,-7.6423911 L -258,-7.6423911 C -259.45368,-7.8445411 -260.73973,-8.3414911 -261,-10.642391 L -261,-18.642391 C -260.80472,-20.245931 -260.02309,-21.409711 -258,-21.642391 L -252,-21.642391 L -252.0625,-25.642387 L -261,-25.642387 L -261,-30.642391 z M -252,-12.642391 L -252,-16.642391 L -256,-16.642391 C -256.84464,-16.578161 -256.92943,-16.114021 -257,-15.642391 L -257,-13.642391 C -256.90133,-13.199551 -256.71595,-12.797171 -256,-12.642391 L -252,-12.642391 z"
+               style="fill:#00a94e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path5551" />
+          </g>
+          <g
+             id="g5553"
+             transform="matrix(1.2307692,0,0,1,60.306768,115.00376)"
+             style="fill:#00a94e;fill-opacity:1;display:inline">
+            <path
+               sodipodi:nodetypes="ccccccccccccccccccc"
+               d="M -217.99609,-30.642421 L -207.99609,-30.642421 C -205.92649,-30.456241 -205.15479,-29.282541 -204.99609,-27.642421 L -204.99609,-7.6424211 L -214.99609,-7.6424211 C -216.44977,-7.8445711 -217.73582,-8.3415211 -217.99609,-10.642421 L -217.99609,-18.642421 C -217.80081,-20.245961 -217.01918,-21.409741 -214.99609,-21.642421 L -209.05243,-21.641577 L -209.05243,-25.641577 L -217.98994,-25.641577 L -217.99609,-30.642421 z M -208.99609,-12.642421 L -208.99609,-16.642421 L -212.99609,-16.642421 C -213.84073,-16.578191 -213.92552,-16.114051 -213.99609,-15.642421 L -213.99609,-13.642421 C -213.89742,-13.199581 -213.71204,-12.797201 -212.99609,-12.642421 L -208.99609,-12.642421 z"
+               style="fill:#00a94e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path5555" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2796"
+       transform="matrix(8.1086349,0,0,1.1542811,3944.7362,64.714661)"
+       style="fill:url(#linearGradient3576);fill-opacity:1;stroke:none;display:inline">
+      <path
+         sodipodi:nodetypes="czzccc"
+         d="M -406.01399,-56.064908 L -406.01399,0.369635 C -406.01399,7.0156652 -407.23532,13.245694 -408.1814,13.242302 L -486.45144,12.961678 L -486.48586,-55.681765 L -406.01399,-56.064908 z"
+         style="fill:url(#linearGradient3586);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path2798" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="logo_cash"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4102"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC"
+       transform="translate(42.52396,23.23851)"><flowRegion
+         id="flowRegion4104"><rect
+           id="rect4106"
+           width="631"
+           height="82"
+           x="-1"
+           y="4"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC" /></flowRegion><flowPara
+         id="flowPara4112">ВЫБЕРИТЕ СПОСОБ ОБСЛУЖИВАНИЯ</flowPara></flowRoot>    <image
+       style="display:inline"
+       y="108"
+       x="97.824921"
+       id="image2858"
+       height="130"
+       width="207.037"
+       sodipodi:absref="E:\Work\_Images\Cards\Card.png"
+       xlink:href="E:\Work\_Images\Cards\Card.png" />
+    <image
+       style="display:inline"
+       y="108"
+       x="730.13049"
+       id="image2860"
+       height="130"
+       width="204.28571"
+       sodipodi:absref="E:\Work\_Images\logo\pastedpic_10092008_133237.png"
+       xlink:href="E:\Work\_Images\logo\pastedpic_10092008_133237.png" />
+    <image
+       y="108"
+       x="370"
+       id="image2888"
+       height="130"
+       width="291.66052"
+       sodipodi:absref="E:\Work\_Images\Screens\1997-1000-1.jpg"
+       xlink:href="1997-1000-1.jpg" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="pic-nk.ru"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g3874"
+       transform="translate(0,-120.5)">
+      <g
+         id="g3969"
+         transform="translate(0,20)">
+        <rect
+           style="opacity:1;fill:#ebf0f3;fill-opacity:1;fill-rule:nonzero;stroke:#03457a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2419"
+           width="1022.9999"
+           height="550"
+           x="0.5"
+           y="188" />
+        <path
+           id="path4625"
+           d="M 856.48115,736.59463 C 582.3516,729.07755 448.38917,549.87307 0.5399093,555.30789 L 0.5399093,737.53645 L 856.62942,737.53645 L 856.48115,736.59463 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           id="path4627"
+           d="M 562.44851,511.98333 L 559.43215,521.19179 L 555.16428,519.7091 L 559.27109,521.74608 L 557.0667,530.4801 L 559.8851,521.95041 L 564.35093,522.75533 L 560.04615,521.39613 L 562.44851,511.98333 z"
+           style="fill:#03457a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <g
+           transform="matrix(3.355242,0,0,3.355242,-3.2587615,258.13277)"
+           style="fill-rule:evenodd;stroke:none"
+           id="g4629">
+          <path
+             id="path4631"
+             d="M 28.9483,94.6575 C 28.2317,94.7421 27.495,94.8233 26.7573,94.9006 C 25.7676,95.0304 24.8611,95.1828 24.0372,95.368 C 23.8051,95.4174 23.5723,95.4706 23.3197,95.5127 C 23.0039,95.5662 22.7085,95.6209 22.3911,95.6716 C 21.7173,95.7876 21.0215,95.8991 20.3263,96.0118 C 19.2288,96.1954 18.1734,96.4034 16.9938,96.5675 C 16.9309,96.5757 16.699,96.6084 16.5939,96.5913 C 16.5521,96.5901 16.5735,96.5675 16.5738,96.5644 C 16.6162,96.543 16.6584,96.5207 16.7009,96.4984 C 16.7647,96.474 16.8496,96.4462 16.9333,96.4187 C 17.0399,96.3821 17.1673,96.3463 17.273,96.3161 C 17.6319,96.2168 18.0122,96.1185 18.4141,96.0338 C 18.6454,95.9883 18.8574,95.9404 19.0681,95.8936 C 18.1398,96.0558 17.1917,96.2107 16.2207,96.3643 C 16.3044,96.3799 16.326,96.3906 16.3254,96.4111 C 16.3258,96.4172 16.3041,96.4267 16.3035,96.4328 C 16.2821,96.4395 16.2824,96.4496 16.2613,96.4554 C 16.2393,96.4612 16.2188,96.4703 16.1975,96.4801 C 16.1758,96.4893 16.1556,96.4954 16.1132,96.5036 C 16.0707,96.5262 15.9864,96.54 15.9229,96.5574 C 15.859,96.5763 15.7747,96.5962 15.6901,96.6145 C 15.3733,96.6814 15.0566,96.7486 14.698,96.8039 C 14.6354,96.8158 14.5089,96.8354 14.4243,96.8326 C 14.4041,96.8323 14.4041,96.8323 14.3828,96.828 C 14.3824,96.8247 14.3824,96.8213 14.3824,96.8179 C 14.4044,96.8152 14.4047,96.8085 14.4047,96.8027 C 14.4258,96.7956 14.4469,96.7868 14.4686,96.7804 C 14.5309,96.7562 14.5957,96.7382 14.6592,96.7168 C 14.7643,96.686 14.8699,96.6561 14.9967,96.627 C 15.2927,96.5491 15.5887,96.4813 15.9268,96.415 C 15.4198,96.4957 14.9347,96.5748 14.4292,96.6564 C 14.1763,96.6988 13.9234,96.7407 13.6698,96.7834 C 13.5009,96.828 13.3314,96.8726 13.1417,96.9105 C 12.5714,97.0495 11.9385,97.1768 11.3679,97.3171 C 10.7335,97.4835 10.2258,97.6717 9.79972,97.8928 C 9.48174,98.0453 9.24654,98.2178 9.03273,98.3919 C 8.75355,98.6333 8.55866,98.8798 8.42731,99.1388 C 8.40533,99.1718 8.38333,99.2072 8.36164,99.2371 C 8.34057,99.2726 8.31796,99.3025 8.27551,99.3376 C 8.21136,99.4021 8.14661,99.4638 8.08186,99.5249 C 7.95417,99.6306 7.80419,99.7369 7.61298,99.8334 C 7.52745,99.8713 7.37901,99.9565 7.18932,99.9666 C 7.1267,99.9724 7.08455,99.9547 7.06438,99.9372 C 7.04391,99.9229 7.04362,99.9097 7.04423,99.8932 C 7.02345,99.8691 7.02376,99.849 7.02528,99.8257 C 7.04758,99.75 7.0705,99.6703 7.11417,99.596 C 7.17985,99.4644 7.24613,99.3327 7.33287,99.2087 C 7.61389,98.8281 7.98074,98.4591 8.45084,98.1103 C 8.7291,97.8989 9.04922,97.6986 9.38859,97.5034 C 8.96767,97.5736 8.52538,97.6369 8.06169,97.6821 C 7.91447,97.6986 7.38756,97.7517 7.24216,97.6818 C 7.05491,97.592 7.41718,97.3937 7.52287,97.3439 C 7.60809,97.296 7.71439,97.2492 7.79991,97.2016 C 7.77884,97.2086 7.73577,97.2166 7.71531,97.2196 C 7.48347,97.2624 7.20917,97.2835 7.12853,97.1616 C 7.04666,97.0696 7.19603,96.9539 7.2608,96.8793 C 7.45353,96.7153 7.68873,96.5522 7.94378,96.4034 C 8.45419,96.1227 9.04922,95.8512 9.70625,95.5977 C 8.18418,96.0149 6.8075,96.4856 5.55605,97.0278 C 5.25884,97.1625 4.94056,97.289 4.6235,97.4093 C 4.24107,97.5541 3.83848,97.6949 3.43681,97.833 C 2.79842,98.0608 2.13772,98.2857 1.47916,98.5147 L 1.47916,97.719 L 1.95291,97.5254 C 2.12214,97.4603 2.27059,97.3949 2.42027,97.3293 C 2.52534,97.2828 2.63132,97.2358 2.71686,97.1784 C 2.82315,97.132 2.97191,97.0467 2.97313,96.9829 C 2.97832,96.7535 2.26509,96.7284 2.50579,96.3228 C 2.5287,96.2501 2.61422,96.1765 2.61605,96.0965 C 2.61605,96.087 2.59498,96.0693 2.57482,96.065 C 2.55344,96.0616 2.53206,96.0674 2.51128,96.0665 C 2.4902,96.0726 2.46852,96.0794 2.44897,96.0845 C 2.42698,96.091 2.38452,96.0989 2.36345,96.113 C 2.32069,96.1209 2.29961,96.1365 2.25777,96.1459 C 2.17254,96.1832 2.08762,96.2174 2.0027,96.2547 C 1.83349,96.3341 1.65418,96.4135 1.47916,96.4951 L 1.47916,93.0123 C 4.22763,92.2804 7.19726,91.6411 10.2949,91.0433 C 10.6752,90.9651 11.0753,90.8906 11.4761,90.8201 C 22.3145,89.0356 34.1661,88.8404 46.9747,89.0438 C 51.0675,89.1514 55.2629,89.4275 59.5814,89.8179 C 63.9411,90.2259 68.3403,90.7278 72.7608,91.2611 C 73.0959,91.3011 73.4518,91.3418 73.7874,91.3821 C 78.0183,91.8992 82.2271,92.4628 86.4974,93.0987 C 88.6325,93.4192 90.7881,93.7607 92.944,94.118 C 93.634,94.2323 94.3246,94.3493 95.0147,94.4739 C 95.2031,94.5096 95.3919,94.542 95.6011,94.5814 C 95.643,94.589 95.705,94.6046 95.7474,94.6126 C 95.7682,94.6132 95.8098,94.6278 95.8305,94.6355 C 95.851,94.6486 95.8091,94.644 95.7673,94.6401 C 95.683,94.6376 95.5782,94.6245 95.4741,94.611 C 95.0547,94.5551 94.6356,94.4925 94.218,94.4272 C 92.6269,94.1819 91.015,93.9268 89.4249,93.6794 C 84.2129,92.8822 79.0205,92.1396 73.8467,91.4966 C 67.1234,90.6817 60.4999,90.043 53.9986,89.6129 C 50.6948,89.4064 47.3816,89.2644 44.0707,89.2561 C 43.5454,89.2607 43.0411,89.265 42.5374,89.29 C 42.5368,89.2937 42.4946,89.2986 42.494,89.3016 C 42.4735,89.3047 42.5157,89.3059 42.5157,89.3059 C 42.578,89.3148 42.6201,89.3194 42.6617,89.3206 C 42.7457,89.3227 42.8095,89.3279 42.8935,89.331 C 43.5017,89.3621 44.0885,89.3835 44.6975,89.4085 C 47.0474,89.4996 49.3985,89.6034 51.7902,89.7458 C 59.0676,90.2085 66.4465,90.8906 73.9866,91.8012 C 79.3275,92.4582 84.7297,93.231 90.1295,94.0863 C 91.9711,94.3823 93.8127,94.6807 95.654,94.999 C 96.5535,95.1529 97.4742,95.3075 98.3734,95.4779 C 98.8542,95.5686 99.3356,95.6563 99.817,95.7406 C 100.193,95.8023 100.57,95.8701 100.947,95.9257 C 101.575,96.0241 102.203,96.1096 102.831,96.1985 C 103.04,96.2247 103.25,96.2574 103.438,96.2868 C 103.773,96.3399 104.108,96.3967 104.443,96.4532 C 105.489,96.6316 106.514,96.8091 107.539,96.9966 C 110.823,97.5849 114.128,98.2108 117.347,98.8513 C 163.767,140.868 95.9787,130.915 121.329,110.139 C 122.234,109.397 119.226,105.663 120.388,104.904 C 126.476,105.612 131.458,104.603 136.087,105.361 C 168.497,110.665 168.623,120.131 150.93,118.978 C 146.734,118.705 140.234,114.263 134.482,113.305 C 127.08,111.975 117.975,102.153 109.298,100.853 C 87.3355,95.4718 64.9137,89.8258 43.1385,95.0726 C 41.9191,95.0982 40.6793,95.1282 39.4404,95.1532 C 37.8205,95.1877 36.2447,95.2305 34.7513,95.3246 C 34.6884,95.3227 34.6255,95.3252 34.583,95.3298 C 33.3841,95.4003 32.1638,95.4599 30.9659,95.5271 C 29.7456,95.5974 28.5259,95.6667 27.2851,95.729 C 26.8856,95.7504 26.4436,95.7736 26.0022,95.7803 C 25.8764,95.7797 25.4774,95.7876 25.3519,95.7437 C 25.2062,95.6966 25.5013,95.6151 25.5651,95.5937 C 25.9466,95.4822 26.4522,95.4012 26.9586,95.3227 C 27.3169,95.2641 27.7177,95.2164 28.1169,95.1752 C 28.6643,95.1184 29.2327,95.0689 29.8216,95.0265 C 30.895,94.9455 31.9888,94.8786 33.104,94.8194 C 33.1459,94.8172 33.1874,94.8151 33.2085,94.8123 C 33.2503,94.8105 33.272,94.8074 33.3139,94.8062 C 33.3353,94.8023 33.3557,94.7998 33.3771,94.7971 C 33.3985,94.7946 33.4403,94.7891 33.4406,94.7824 C 33.4614,94.7738 33.3994,94.7546 33.3566,94.75 C 33.1899,94.7189 33.002,94.7027 32.8334,94.6675 C 32.7711,94.6593 32.7289,94.6449 32.7299,94.6278 C 32.7301,94.6083 32.8145,94.5939 32.8777,94.5897 C 32.9198,94.5774 33.0048,94.5735 33.0677,94.5649 C 33.152,94.5545 33.2571,94.5469 33.3621,94.5435 C 33.6563,94.5231 33.9712,94.5096 34.3084,94.5029 C 34.8127,94.4852 35.317,94.4769 35.8421,94.4724 C 38.1743,94.4458 40.4438,94.4082 42.7756,94.4018 C 85.6733,94.5289 78.4594,94.4455 41.7917,94.2625 C 38.4519,94.2445 35.2584,94.2845 32.2097,94.429 C 31.0948,94.4885 30.0006,94.5652 28.9483,94.6575 z M 11.7769,95.9871 C 12.1575,95.8982 12.558,95.8139 12.9801,95.733 C 13.9716,95.5341 14.9839,95.3542 15.9971,95.1752 C 16.5243,95.061 17.0729,94.9476 17.6221,94.8417 C 17.6013,94.8273 17.5598,94.816 17.5173,94.8081 C 17.371,94.7803 17.225,94.7595 17.0576,94.7338 C 15.6428,95.0176 14.292,95.3166 13.0033,95.6478 C 12.5803,95.7577 12.1786,95.8723 11.7769,95.9871 z M 43.94,92.183 C 42.5325,92.2141 41.124,92.2609 39.7568,92.336 C 63.5666,94.8783 91.523,92.1256 43.94,92.183 z M 114.852,100.527 C 107.84,99.2952 58.6595,92.3549 89.9628,96.7758 C 91.4072,96.9759 92.852,97.186 94.2755,97.3983 C 94.9872,97.5028 95.72,97.6121 96.4106,97.7196 C 96.7872,97.7841 97.1632,97.8421 97.52,97.8959 C 97.8123,97.938 98.1266,97.9884 98.4202,98.0266 C 98.9019,98.0911 99.4037,98.1561 99.8851,98.2175 C 100.053,98.2392 100.2,98.2563 100.368,98.2792 C 100.619,98.3165 100.892,98.3547 101.163,98.3959 C 101.958,98.516 102.775,98.6409 103.57,98.7652 C 106.124,99.1586 108.697,99.5722 111.23,100.001 C 169.058,109.641 169.387,109.806 114.852,100.527 z M 91.3465,97.7801 C 91.5349,97.8085 91.7442,97.8348 91.9329,97.8577 C 92.0588,97.8742 92.1846,97.8879 92.3105,97.9023 C 92.4354,97.9157 92.5619,97.9231 92.6452,97.9228 C 92.7302,97.9215 92.772,97.9197 92.8557,97.9252 C 92.9394,97.9316 93.0023,97.9359 93.086,97.949 C 93.086,97.949 93.086,97.9451 93.086,97.9451 C 72.2348,95.3215 65.8081,94.3346 91.3465,97.7801 z M 124.997,105.426 C 119.015,104.313 112.429,100.817 105.962,99.8129 C 103.074,99.3593 100.059,98.9088 97.1483,98.5175 C 97.0227,98.501 96.8755,98.4827 96.7503,98.4659 C 96.7084,98.4616 96.6864,98.4607 96.6455,98.4527 C 96.6247,98.4454 96.6039,98.4475 96.5826,98.4512 C 96.5627,98.446 96.5826,98.4512 96.5826,98.4512 C 96.6036,98.4543 96.6244,98.4555 96.6455,98.4631 C 96.7496,98.4787 96.8547,98.4955 96.9598,98.5114 C 98.3404,98.7298 99.7223,98.935 101.103,99.1495 C 102.004,99.2872 102.883,99.4161 103.783,99.5502 C 104.557,99.6632 105.353,99.7808 106.127,99.8972 C 106.923,100.015 107.719,100.132 108.493,100.256 C 109.414,100.397 110.314,100.544 111.193,100.693 M 127.418,108.94 C 126.915,108.841 126.393,108.747 125.869,108.648 C 125.681,108.611 125.514,108.583 125.347,108.548 C 125.285,108.539 125.122,105.449 125.08,105.445 C 125.038,105.438 125.018,105.43 124.997,105.426 M 107.624,99.6797 C 107.624,99.6797 107.624,99.6797 107.624,99.6797 C 107.561,99.6715 107.499,99.6629 107.436,99.6547 C 107.143,99.6086 106.85,99.5628 106.557,99.5145 C 105.552,99.3569 104.547,99.1974 103.522,99.0398 C 101.784,98.7704 100.068,98.5062 98.3096,98.2401 C 96.6565,97.9903 95.0027,97.7438 93.3273,97.5067 C 92.9086,97.4475 92.4904,97.3907 92.0921,97.34 C 91.9659,97.3216 91.8615,97.3085 91.7573,97.2996 C 91.6938,97.2871 91.6302,97.2819 91.5676,97.2773 C 91.5471,97.2767 91.5267,97.2715 91.5679,97.2804 C 91.5893,97.2877 91.6516,97.299 91.6935,97.3042 C 91.9027,97.3433 92.1122,97.3763 92.3425,97.4096 C 93.1587,97.5413 93.996,97.6665 94.8335,97.7954 C 97.2616,98.168 99.6893,98.5444 102.118,98.9244 C 103.205,99.0936 104.315,99.2668 105.404,99.4329 C 105.821,99.4949 106.24,99.5612 106.659,99.6202 C 106.953,99.6629 107.246,99.7051 107.538,99.7442 C 107.601,99.7488 107.728,99.7625 107.769,99.7601 C 107.79,99.7549 107.77,99.7408 107.749,99.7301 C 107.729,99.7155 107.687,99.7011 107.666,99.691 C 107.645,99.6871 107.645,99.6871 107.624,99.6797 z M 11.2274,97.961 C 11.2491,97.9359 11.2708,97.9093 11.2916,97.88 C 9.74504,98.4662 9.30611,99.2552 8.57485,99.9919 C 8.46734,100.113 8.35921,100.239 8.27245,100.367 C 8.25107,100.406 8.22877,100.446 8.20648,100.484 C 8.20617,100.501 8.20648,100.518 8.18479,100.53 C 8.18448,100.541 8.18418,100.553 8.18418,100.567 C 8.18418,100.57 8.18357,100.581 8.20434,100.591 C 8.20464,100.598 8.20342,100.605 8.20373,100.608 C 8.2248,100.615 8.2248,100.622 8.24619,100.615 C 8.33018,100.608 8.37295,100.57 8.4151,100.55 C 8.60693,100.437 8.73582,100.314 8.88642,100.195 C 9.05685,100.053 9.20776,99.9082 9.33696,99.7598 C 9.66105,99.3654 10.1318,98.994 10.6446,98.6265 C 10.7729,98.5373 10.9012,98.4546 11.0286,98.3648 C 11.1144,98.2942 11.2204,98.2282 11.2854,98.1564 C 11.3279,98.1308 11.3496,98.1048 11.3713,98.0752 C 11.3716,98.0596 11.3936,98.037 11.3939,98.0162 C 11.3734,97.9924 11.353,97.9652 11.2274,97.961 z M 74.7664,93.5401 C 55.857,91.4087 88.8906,95.481 91.8935,95.9248 C 92.1443,95.9621 92.3957,96.0002 92.6477,96.0341 C 92.7943,96.0516 92.962,96.0735 93.1291,96.0916 C 93.2754,96.1032 93.4223,96.1139 93.5491,96.1044 C 93.6545,96.1007 93.7171,96.0931 93.8222,96.0958 C 93.9068,96.0989 94.0109,96.1087 94.1157,96.1215 C 94.1157,96.1215 94.1157,96.1215 94.1157,96.1215 C 87.6664,95.251 81.2161,94.3902 74.7664,93.5401 z M 110.606,98.811 C 106.904,98.1393 103.054,97.4909 99.306,96.9349 C 99.1389,96.9093 98.9715,96.8842 98.8035,96.8622 C 98.7611,96.861 98.7201,96.8503 98.6572,96.8488 C 98.6361,96.8442 98.615,96.8412 98.5943,96.8393 C 98.5735,96.8393 98.5732,96.8424 98.5937,96.846 C 98.615,96.8543 98.6569,96.8613 98.6777,96.8622 C 98.8029,96.8922 98.9498,96.9172 99.0757,96.9407 C 100.853,97.2612 102.632,97.5614 104.389,97.8702 C 105.519,98.0676 106.67,98.2661 107.8,98.453 C 108.804,98.6192 109.808,98.7835 110.812,98.9494 C 111.838,99.1244 112.843,99.2909 113.847,99.4708 C 115.018,99.68 116.169,99.8942 117.297,100.115 M 112.756,98.4692 C 112.736,98.4659 112.736,98.4659 112.736,98.4659 C 112.651,98.4558 112.568,98.4402 112.505,98.4286 C 112.108,98.3596 111.731,98.2924 111.375,98.2282 C 110.079,97.9927 108.782,97.7535 107.485,97.5177 C 105.268,97.1176 103.05,96.7275 100.812,96.3405 C 98.6981,95.9663 96.5642,95.6065 94.4291,95.269 C 93.9065,95.1862 93.3628,95.1031 92.8386,95.0277 C 92.692,95.01 92.5454,94.9883 92.3988,94.9678 C 92.3358,94.959 92.2518,94.9464 92.1895,94.9443 C 92.1684,94.9437 92.1266,94.9394 92.1687,94.9538 C 92.2091,94.969 92.2726,94.98 92.3358,94.9886 C 92.6071,95.0472 92.8786,95.0982 93.1505,95.1499 C 94.2168,95.3457 95.2847,95.5308 96.3727,95.7238 C 99.4688,96.2739 102.565,96.8265 105.681,97.3864 C 107.083,97.6353 108.485,97.8904 109.887,98.136 C 110.431,98.2325 110.954,98.3223 111.498,98.4115 C 111.874,98.4729 112.251,98.534 112.607,98.581 C 112.711,98.5951 112.858,98.6125 112.901,98.6 C 112.942,98.5883 112.922,98.5673 112.901,98.5502 C 112.881,98.5291 112.819,98.501 112.777,98.4827 C 112.777,98.4799 112.756,98.4729 112.756,98.4692 z"
+             style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+          <path
+             id="path4633"
+             d="M 13.894,99.7408 C 13.898,99.7405 13.9017,99.7399 13.9059,99.7393 C 13.9011,99.7393 13.8977,99.7396 13.8934,99.7387 C 13.8943,99.7402 13.8943,99.7405 13.894,99.7408 z M 6.49471,100.995 C 6.49349,100.995 6.49318,100.995 6.49257,100.995 L 6.49288,100.995 C 6.49349,100.995 6.4938,100.995 6.49471,100.995 z M 6.49288,100.995 L 6.49288,100.995 C 6.47517,100.999 6.4831,100.998 6.49288,100.995 z M 5.67793,100.969 L 5.67824,100.969 C 5.67793,100.969 5.67793,100.969 5.67793,100.969 z M 6.08662,99.7451 C 6.08509,99.7454 6.08509,99.7454 6.08693,99.7451 L 6.08662,99.7451 z M 79.3996,98.0114 C 79.3996,98.0114 79.3999,98.0114 79.3999,98.0114 L 79.4002,98.0117 C 79.3999,98.0117 79.3999,98.0114 79.3996,98.0114 z M 79.4011,98.0117 C 79.4008,98.0114 79.4008,98.0114 79.4002,98.0117 L 79.4011,98.0117 z M 151.857,113.558 C 151.856,113.558 151.856,113.558 151.855,113.558 L 151.856,113.558 C 151.855,113.558 151.856,113.558 151.857,113.558 z M 151.857,113.558 C 151.858,113.558 151.859,113.559 151.857,113.558 L 151.857,113.558 z M 152.186,113.553 L 152.186,113.553 C 152.186,113.553 152.186,113.553 152.186,113.553 z M 138.137,109.78 C 138.137,109.78 138.136,109.78 138.136,109.78 L 138.136,109.78 C 138.136,109.78 138.137,109.78 138.137,109.78 z M 138.136,109.78 L 138.136,109.78 C 138.13,109.778 138.134,109.779 138.136,109.78 z M 138.741,110.23 C 138.741,110.23 138.741,110.23 138.741,110.23 L 138.741,110.23 C 138.741,110.23 138.741,110.23 138.741,110.23 z M 135.047,109.187 L 135.046,109.186 L 135.046,109.186 C 135.046,109.186 135.046,109.187 135.046,109.187 C 135.046,109.187 135.046,109.187 135.047,109.187 z M 127.581,107.27 C 126.402,106.977 125.153,106.686 123.815,106.395 C 121.808,105.957 119.657,105.533 117.351,105.121 C 115.048,104.708 112.589,104.307 109.963,103.913 C 109.368,103.823 108.741,103.735 108.103,103.649 C 107.504,103.568 106.887,103.488 106.276,103.409 C 109.26,103.828 112.007,104.255 114.608,104.692 C 117.28,105.142 119.801,105.606 122.276,106.086 C 122.507,106.132 122.738,106.179 122.968,106.227 C 123.193,106.273 123.415,106.32 123.634,106.367 C 124.762,106.606 125.826,106.846 126.834,107.088 C 127.088,107.149 127.336,107.209 127.581,107.27 z M 132.695,108.849 C 132.695,108.85 132.695,108.85 132.695,108.849 L 132.695,108.849 z M 132.695,108.849 C 132.694,108.849 132.693,108.849 132.693,108.849 L 132.695,108.849 z M 27.5921,99.1782 C 27.5927,99.1785 27.5936,99.1782 27.5946,99.1785 C 27.5949,99.1782 27.5955,99.1785 27.5961,99.1785 C 27.5961,99.1785 27.5961,99.1785 27.5961,99.1785 C 27.5964,99.1782 27.5967,99.1782 27.597,99.1782 C 27.5976,99.1782 27.5991,99.1782 27.601,99.1779 C 27.5781,99.1788 27.5634,99.1791 27.5921,99.1782 L 27.5921,99.1782 z M 27.7494,99.2188 C 27.7494,99.2188 27.7494,99.2188 27.7491,99.2188 L 27.7503,99.2188 C 27.7503,99.2188 27.7497,99.2188 27.7494,99.2188 z M 29.3631,99.0355 C 29.5082,99.0349 29.6545,99.0343 29.8021,99.0337 C 30.5926,99.0313 31.3868,99.0267 32.1813,99.023 C 32.7185,99.02 33.2549,99.0169 33.7959,99.0145 C 32.7876,99.0132 31.789,99.0151 30.804,99.0215 C 30.3201,99.0255 29.839,99.0291 29.3631,99.0355 z M 40.6976,99.0322 C 41.826,99.0416 42.9708,99.0551 44.1303,99.0728 C 45.5916,99.0948 47.0584,99.122 48.5288,99.1528 C 49.9938,99.1846 51.4841,99.2216 52.9918,99.2628 C 54.0062,99.2897 54.991,99.3187 55.9752,99.3471 C 56.1588,99.3526 56.3417,99.3581 56.5247,99.3636 L 56.5241,99.3633 C 56.5495,99.3642 56.6115,99.366 56.7239,99.3691 C 57.4014,99.3896 58.0804,99.4091 58.753,99.4238 C 58.0593,99.3926 57.3687,99.3639 56.6817,99.3367 C 54.7021,99.2585 52.7493,99.1944 50.8176,99.1428 C 49.8096,99.1165 48.7982,99.0936 47.7912,99.0749 C 46.7841,99.0575 45.7865,99.0435 44.8041,99.034 C 44.0509,99.0273 43.3089,99.023 42.5838,99.0221 C 41.942,99.0227 41.3131,99.0258 40.6976,99.0322 z M 64.7225,99.6715 C 64.7231,99.6715 64.7237,99.6721 64.7252,99.6718 L 64.7225,99.6715 z M 27.4333,99.1183 C 27.4333,99.1183 27.4333,99.1186 27.4333,99.1183 L 27.433,99.1186 C 27.433,99.1186 27.4333,99.1183 27.4333,99.1183 z M 27.7571,99.2524 L 27.7571,99.2524 C 27.7904,99.2512 27.9009,99.2478 27.7571,99.2524 z M 27.7571,99.2524 L 27.7571,99.2524 C 27.743,99.2521 27.7461,99.2521 27.7571,99.2524 z M 21.2723,99.5463 C 21.2555,99.5426 21.2481,99.5414 21.2701,99.546 C 21.2701,99.546 21.2714,99.5463 21.2723,99.5463 z M 135.34,109.159 C 135.34,109.159 135.34,109.159 135.34,109.159 C 135.34,109.159 135.341,109.159 135.341,109.159 C 135.341,109.159 135.34,109.159 135.34,109.159 L 135.34,109.159 z M 138.443,109.757 C 138.444,109.757 138.444,109.757 138.443,109.757 C 138.443,109.757 138.443,109.757 138.443,109.757 z M 138.443,109.757 C 138.442,109.756 138.433,109.754 138.443,109.757 L 138.443,109.757 C 138.443,109.757 138.443,109.757 138.443,109.757 z M 135.598,108.298 C 136.127,108.444 136.648,108.59 137.162,108.739 C 138.771,109.205 140.279,109.678 141.699,110.158 C 143.12,110.637 144.455,111.122 145.721,111.611 C 145.759,111.624 145.797,111.64 145.835,111.654 C 145.49,111.515 145.138,111.377 144.777,111.241 C 143.651,110.813 142.461,110.392 141.2,109.976 C 139.94,109.56 138.606,109.149 137.193,108.741 C 136.915,108.661 136.636,108.581 136.359,108.504 C 136.11,108.434 135.856,108.365 135.598,108.298 z M 148.77,112.973 C 148.77,112.973 148.769,112.973 148.769,112.973 L 148.77,112.973 C 148.77,112.973 148.77,112.973 148.77,112.973 z M 65.7913,97.226 C 66.4706,97.2612 67.1481,97.2969 67.8247,97.3342 C 69.9366,97.449 72.058,97.5755 74.1864,97.7096 C 74.7646,97.7465 75.3471,97.7838 75.929,97.8217 C 76.2928,97.8452 76.656,97.8684 77.0188,97.8922 C 76.1627,97.8299 75.3034,97.771 74.4448,97.7141 C 73.5718,97.6573 72.6954,97.6027 71.8154,97.5507 C 70.0753,97.4469 68.3519,97.3534 66.6416,97.2676 C 66.3585,97.2535 66.075,97.2395 65.7913,97.226 z M 79.2994,98.0734 C 79.2994,98.0734 79.2994,98.0734 79.2991,98.0734 L 79.3018,98.0743 C 79.3012,98.0734 79.3006,98.0734 79.2994,98.0734 z M 79.2954,98.0727 C 79.2899,98.0727 79.2936,98.0734 79.2954,98.0727 L 79.2957,98.0727 C 79.2954,98.0727 79.2954,98.0727 79.2954,98.0727 z M 13.3528,99.7198 L 13.4026,99.7366 C 13.4129,99.735 13.4218,99.7335 13.4279,99.7332 C 13.4349,99.7317 13.4413,99.7314 13.4471,99.7301 L 13.3528,99.7198 z M 13.5177,99.7158 C 13.5177,99.7155 13.5177,99.7155 13.5177,99.7155 L 13.5174,99.7155 C 13.5174,99.7155 13.5174,99.7155 13.5177,99.7158 z M 13.2987,99.1867 C 13.339,99.184 13.379,99.1809 13.4193,99.1782 C 13.587,99.1617 13.7532,99.1464 13.9179,99.1314 C 13.7101,99.1486 13.5046,99.1678 13.2987,99.1867 z M 10.1256,99.5209 L 9.87334,99.4525 C 10.0429,99.432 10.2139,99.4116 10.3874,99.3917 C 10.5606,99.3712 10.7356,99.3511 10.9143,99.3318 C 11.4605,99.271 12.0149,99.2148 12.5757,99.1617 C 13.1319,99.1085 13.715,99.0575 14.3168,99.0065 L 14.3852,99.0007 L 14.4704,99.0087 C 14.5,99.0117 14.5459,99.0163 14.5914,99.0203 L 14.5911,99.0203 C 14.6803,99.0279 14.7695,99.0361 14.8645,99.0478 L 14.8651,99.0478 C 14.8926,99.0511 14.9201,99.0551 14.9445,99.0594 C 14.9775,99.0652 15.0086,99.0716 15.0337,99.0789 L 15.1464,99.1134 L 14.9989,99.1266 C 14.7786,99.1446 14.5517,99.1647 14.3198,99.1864 C 14.0892,99.2063 13.8678,99.2271 13.6567,99.2481 L 13.6426,99.2494 C 13.2052,99.279 12.7794,99.3092 12.3747,99.3392 C 11.955,99.3694 11.5387,99.4018 11.1284,99.4348 C 10.9708,99.4479 10.8019,99.4623 10.6238,99.4775 L 10.6241,99.4775 C 10.4366,99.4931 10.2695,99.5081 10.1256,99.5209 z M 44.3857,98.1561 C 44.8845,98.158 45.3695,98.1601 45.8381,98.1619 C 46.3232,98.1644 46.8107,98.1677 47.2997,98.1705 C 48.6073,98.1794 49.9196,98.1922 51.23,98.205 C 51.4355,98.2071 51.6402,98.2093 51.8449,98.2111 C 51.8665,98.2108 51.8006,98.2111 52.1017,98.2139 L 52.1008,98.2136 C 53.0413,98.2236 53.9846,98.2322 54.8979,98.2313 L 54.8991,98.2316 C 54.9812,98.2316 55.0643,98.2319 55.148,98.2334 C 55.2323,98.2337 55.3127,98.2355 55.3924,98.2377 C 55.5463,98.2404 55.6771,98.2432 55.7944,98.2456 C 55.9007,98.2487 56.04,98.2523 56.197,98.256 C 56.5562,98.2664 56.9181,98.2765 57.2831,98.2875 C 57.6488,98.2982 58.0107,98.3095 58.3709,98.3217 C 58.8501,98.3373 59.3169,98.3538 59.7827,98.3712 C 59.776,98.3706 59.7699,98.3699 59.7637,98.3699 C 57.175,98.2456 54.6138,98.154 52.0785,98.0889 C 49.5414,98.0248 47.03,97.9878 44.5393,97.9723 C 43.2381,97.964 41.9378,97.9646 40.6478,97.9735 C 39.3475,97.9814 38.0603,97.9973 36.7945,98.0227 C 36.3828,98.0303 35.9765,98.0395 35.5758,98.0489 C 36.6036,98.0547 37.6431,98.0636 38.6951,98.0743 C 40.5574,98.095 42.4543,98.1231 44.3857,98.1561 z M 62.4187,98.5291 C 62.4184,98.5291 62.4178,98.5291 62.4178,98.5291 L 62.4187,98.5291 z M 62.4178,98.5291 C 62.4172,98.5288 62.4166,98.5288 62.4163,98.5288 L 62.4178,98.5291 z M 62.4163,98.5288 C 62.4163,98.5288 62.416,98.5288 62.416,98.5288 L 62.4163,98.5288 z M 62.416,98.5288 C 62.4154,98.5288 62.4142,98.5291 62.4136,98.5294 L 62.416,98.5288 z M 62.4136,98.5294 C 62.4129,98.5291 62.4129,98.5291 62.4129,98.5291 L 62.4136,98.5294 z M 62.4129,98.5291 C 62.4126,98.5291 62.412,98.5285 62.4117,98.5285 L 62.4129,98.5291 z M 84.3024,100.344 C 83.5278,100.282 82.7519,100.221 81.9754,100.161 C 79.8467,99.9977 77.7116,99.8465 75.5673,99.7054 C 75.7228,99.7173 75.8774,99.7283 76.0328,99.7387 C 76.6242,99.7815 77.2113,99.8239 77.7938,99.8685 C 77.8433,99.8722 77.8937,99.8758 77.9441,99.8798 C 78.4765,99.9198 79.0196,99.9604 79.5327,100.004 L 79.533,100.004 C 79.6348,100.013 79.7716,100.024 79.9802,100.041 C 80.1363,100.053 80.2863,100.066 80.4265,100.077 L 80.4271,100.077 C 80.5496,100.087 80.6699,100.095 80.7829,100.104 C 80.903,100.112 81.023,100.121 81.1409,100.129 C 81.5099,100.154 81.8881,100.175 82.3292,100.2 C 82.3927,100.203 82.4617,100.208 82.5329,100.212 C 82.5986,100.218 82.6648,100.221 82.7302,100.226 C 82.8396,100.234 82.9465,100.241 83.0522,100.25 C 83.1643,100.256 83.27,100.265 83.3723,100.272 C 83.6884,100.297 83.9982,100.321 84.3024,100.344 z M 59.9559,99.3398 C 59.9281,99.3303 59.9143,99.3245 59.9198,99.334 L 59.9198,99.334 C 59.9204,99.3361 59.933,99.3382 59.9559,99.3398 z M 76.7265,100.258 C 76.7305,100.259 76.7296,100.258 76.7265,100.258 L 76.7265,100.258 z M 76.7247,100.329 L 76.7274,100.33 C 76.7259,100.329 76.7256,100.329 76.7247,100.329 z M 79.6173,100.542 L 79.6198,100.543 C 79.6186,100.542 79.6219,100.543 79.6173,100.542 z M 79.6112,100.542 C 79.6106,100.542 79.6103,100.542 79.6094,100.542 L 79.6112,100.542 C 79.6112,100.542 79.6112,100.542 79.6112,100.542 z M 79.6332,100.479 C 79.6323,100.479 79.6314,100.479 79.6317,100.479 L 79.6332,100.479 z M 107.097,103.349 L 107.097,103.349 C 107.098,103.349 107.098,103.349 107.101,103.349 L 107.097,103.349 z M 79.5349,100.541 L 79.5364,100.541 C 79.5361,100.541 79.5355,100.542 79.5349,100.541 z M 79.5364,100.541 L 79.537,100.542 C 79.5364,100.541 79.5364,100.541 79.5364,100.541 z M 79.5932,100.47 C 79.6002,100.47 79.5862,100.47 79.5911,100.47 L 79.5932,100.47 z M 88.5638,100.972 C 88.5635,100.972 88.5629,100.972 88.5626,100.972 L 88.5638,100.972 C 88.5638,100.972 88.5638,100.972 88.5638,100.972 z M 88.496,100.971 C 88.496,100.971 88.4957,100.971 88.4957,100.971 L 88.4957,100.971 C 88.4957,100.971 88.496,100.971 88.496,100.971 z M 88.5451,100.9 L 88.6322,100.9 L 88.7153,100.923 C 88.7162,100.923 88.7208,100.924 88.7254,100.925 L 88.7241,100.924 C 88.744,100.93 88.7193,100.924 88.7345,100.928 C 88.7516,100.932 88.77,100.938 88.7861,100.943 L 88.7874,100.942 C 88.8057,100.949 88.8219,100.954 88.8369,100.961 L 88.8375,100.961 C 88.8546,100.968 88.8689,100.977 88.872,100.987 L 88.872,100.986 C 88.8772,100.999 88.8613,101.011 88.8103,101.018 L 88.8112,101.018 C 88.7623,101.025 88.6945,101.027 88.623,101.025 C 88.5729,101.025 88.5228,101.022 88.4816,101.019 L 88.481,101.019 C 88.3619,101.013 88.2372,101.004 88.1129,100.995 C 87.9871,100.986 87.8692,100.977 87.7546,100.968 C 87.5756,100.954 87.4058,100.942 87.2415,100.928 C 87.0625,100.913 86.8945,100.9 86.7329,100.886 C 86.0612,100.831 85.4173,100.778 84.774,100.723 C 84.5135,100.701 84.2654,100.679 84.0605,100.662 C 83.0717,100.579 82.0918,100.497 81.1199,100.417 C 80.1311,100.335 79.1488,100.255 78.1735,100.176 C 77.9865,100.161 77.8384,100.149 77.6893,100.137 C 77.1648,100.095 76.6407,100.052 76.1382,100.01 C 76.0851,100.006 76.0231,100 75.8728,99.9876 C 75.7772,99.9794 75.6849,99.9708 75.6043,99.9635 L 75.6064,99.9632 C 75.6034,99.9632 75.6003,99.9632 75.5985,99.9626 C 75.5982,99.9626 75.5979,99.9626 75.5973,99.9623 C 75.5973,99.9623 75.5973,99.9623 75.5966,99.9623 C 75.5973,99.9623 75.5973,99.9623 75.5973,99.9623 C 75.5979,99.9626 75.5982,99.9626 75.5985,99.9626 C 75.5991,99.9629 75.5991,99.9629 75.5991,99.9629 L 75.593,99.962 C 75.5939,99.9623 75.5951,99.9626 75.596,99.9623 C 75.5533,99.9583 75.498,99.9531 75.4491,99.9455 L 75.4482,99.9455 C 75.2536,99.9149 75.2759,99.8954 75.4036,99.882 C 75.4366,99.8792 75.4739,99.8783 75.5056,99.8792 L 75.5096,99.8792 C 75.5386,99.8792 75.5719,99.8801 75.6058,99.8826 L 75.6061,99.8826 C 75.6626,99.8853 75.6727,99.8859 75.6831,99.8868 C 75.7216,99.8884 75.7726,99.8911 75.8282,99.8951 C 75.8706,99.8969 75.9195,99.9 75.9696,99.9027 C 76.1358,99.9137 76.3059,99.9238 76.4757,99.936 C 76.6437,99.947 76.8123,99.9589 76.9797,99.9705 L 76.9807,99.9708 C 77.6637,100.018 78.3411,100.067 79.0156,100.119 C 79.6986,100.17 80.373,100.223 81.042,100.275 C 81.754,100.332 82.4602,100.389 83.1582,100.446 C 83.8717,100.503 84.577,100.561 85.2701,100.62 C 85.8379,100.669 86.5875,100.733 87.3346,100.797 C 87.4644,100.809 87.5943,100.819 87.7244,100.831 C 87.7754,100.835 87.8276,100.84 87.8331,100.841 L 87.8319,100.84 C 88.0103,100.856 88.1911,100.872 88.434,100.891 C 88.4343,100.891 88.4346,100.891 88.4349,100.891 L 88.434,100.891 C 88.4343,100.891 88.4346,100.891 88.4349,100.891 C 88.448,100.893 88.4526,100.893 88.4596,100.893 C 88.4889,100.896 88.5195,100.898 88.5451,100.9 z M 9.26854,100.35 C 8.48413,100.506 8.07361,100.705 7.66643,100.904 C 7.55128,100.961 7.43581,101.016 7.31486,101.071 C 7.34174,101.06 7.36861,101.05 7.39397,101.039 C 7.45995,101.012 7.52134,100.985 7.57449,100.957 C 7.72446,100.879 7.90408,100.805 8.1011,100.732 C 8.29995,100.659 8.51468,100.589 8.73705,100.52 C 8.7514,100.515 8.80975,100.497 8.87756,100.477 C 8.93407,100.459 8.99241,100.441 9.05746,100.421 C 9.09962,100.408 9.14177,100.395 9.17751,100.382 C 9.20837,100.372 9.24044,100.361 9.26854,100.35 z M 6.95075,101.294 L 6.95075,101.294 C 6.95075,101.294 6.95075,101.294 6.95075,101.294 z M 9.66135,100.28 C 9.66227,100.28 9.6641,100.281 9.66472,100.281 C 9.72031,100.295 9.7365,100.31 9.73924,100.322 C 9.74139,100.329 9.73741,100.336 9.73161,100.342 L 9.731,100.342 C 9.72611,100.347 9.71848,100.352 9.71175,100.357 L 9.71175,100.357 C 9.70168,100.363 9.69037,100.369 9.67723,100.374 C 9.66655,100.38 9.65311,100.385 9.63722,100.391 C 9.60271,100.405 9.56361,100.419 9.52176,100.433 C 9.47869,100.448 9.43806,100.46 9.39684,100.473 C 9.34245,100.491 9.27953,100.51 9.21478,100.53 C 9.19004,100.537 9.15491,100.548 9.07702,100.572 C 8.85465,100.641 8.64114,100.711 8.44993,100.782 C 8.25687,100.852 8.08215,100.925 7.93675,101.001 C 7.87995,101.03 7.8158,101.058 7.74647,101.086 C 7.6756,101.115 7.60229,101.143 7.5302,101.17 C 7.46819,101.192 7.40649,101.214 7.33624,101.238 C 7.26598,101.26 7.19054,101.283 7.10746,101.304 C 7.10318,101.305 7.10073,101.305 7.09982,101.307 L 7.10073,101.306 C 7.06225,101.316 6.99932,101.332 6.89425,101.336 L 6.89241,101.336 C 6.8307,101.338 6.7742,101.334 6.7238,101.328 L 6.72227,101.328 C 6.66546,101.321 6.6285,101.31 6.6059,101.302 L 6.60376,101.301 C 6.60406,101.301 6.60437,101.301 6.60498,101.301 C 6.59276,101.296 6.58451,101.292 6.58024,101.288 C 6.57841,101.285 6.57597,101.282 6.57382,101.28 L 6.57321,101.28 C 6.57138,101.276 6.56985,101.273 6.56985,101.271 C 6.56894,101.27 6.56924,101.267 6.57016,101.264 L 6.57016,101.264 C 6.57016,101.264 6.57016,101.264 6.57016,101.264 C 6.57047,101.261 6.57138,101.258 6.57138,101.255 L 6.57138,101.255 C 6.57352,101.252 6.57475,101.249 6.57626,101.247 C 6.57626,101.247 6.57871,101.243 6.58451,101.238 C 6.58635,101.234 6.59002,101.231 6.59276,101.228 C 6.60284,101.217 6.61231,101.209 6.62116,101.202 L 6.62086,101.202 C 6.63186,101.193 6.64378,101.185 6.65508,101.178 L 6.65508,101.178 C 6.69325,101.152 6.73907,101.128 6.78886,101.102 C 6.83804,101.078 6.89058,101.054 6.9425,101.032 L 6.9425,101.032 C 7.07079,100.975 7.189,100.917 7.30538,100.859 C 7.78464,100.627 8.26727,100.392 9.34521,100.222 L 9.67113,100.275 C 9.66777,100.278 9.66441,100.279 9.66135,100.28 z M 7.09921,101.307 C 7.09982,101.307 7.10073,101.305 7.0989,101.307 L 7.09921,101.307 z M 6.57626,101.247 C 6.57626,101.247 6.57626,101.247 6.57626,101.247 L 6.57626,101.247 z M 6.58451,101.238 C 6.58451,101.238 6.58451,101.238 6.58451,101.238 L 6.58451,101.238 z M 6.59276,101.228 C 6.59276,101.228 6.59276,101.228 6.59276,101.228 L 6.59276,101.228 z M 6.59276,101.228 C 6.59306,101.227 6.59306,101.227 6.59306,101.227 L 6.59276,101.228 z M 56.2431,97.9805 C 56.2022,97.9716 56.1823,97.9671 56.1887,97.9756 C 56.1899,97.9774 56.2092,97.9787 56.2431,97.9805 z M 76.4128,99.0447 C 76.4672,99.0471 76.5222,99.0511 76.5793,99.0539 L 76.5802,99.0536 C 76.5848,99.0545 76.5888,99.0551 76.5927,99.0554 L 76.4128,99.0447 z M 77.7849,99.052 L 77.784,99.052 C 77.7907,99.0526 77.7877,99.0526 77.7849,99.052 z M 91.9125,100.285 C 91.651,100.259 91.3895,100.233 91.1284,100.207 C 89.5867,100.057 87.9969,99.9107 86.385,99.7744 C 85.6024,99.7088 84.8195,99.6461 84.0397,99.586 C 84.1237,99.593 84.2065,99.6012 84.2889,99.6092 C 84.8968,99.6639 85.5056,99.7182 86.1522,99.7787 C 86.5954,99.8193 87.0533,99.8615 87.5271,99.9043 C 88.0002,99.947 88.4596,99.987 88.9053,100.026 C 89.299,100.06 89.6762,100.092 90.0532,100.124 C 90.4946,100.162 90.9341,100.199 91.3477,100.236 C 91.5386,100.252 91.7277,100.268 91.9125,100.285 z M 81.5261,99.3514 C 81.5258,99.3511 81.5255,99.3508 81.5261,99.3511 L 81.5252,99.3511 C 81.5255,99.3508 81.5255,99.3514 81.5261,99.3514 z M 116.663,103.566 L 116.655,103.601 L 116.655,103.601 L 116.602,103.596 L 116.6,103.596 L 116.586,103.593 C 116.574,103.592 116.566,103.59 116.56,103.59 L 116.558,103.59 C 116.556,103.589 116.547,103.587 116.518,103.583 C 116.472,103.575 116.501,103.581 116.48,103.576 L 116.481,103.577 C 116.367,103.557 116.343,103.554 116.339,103.553 C 116.339,103.553 116.339,103.553 116.339,103.553 C 116.339,103.553 116.339,103.553 116.339,103.553 C 116.251,103.539 116.182,103.528 116.16,103.524 L 116.161,103.523 C 112.996,103.006 109.807,102.535 106.547,102.093 C 103.285,101.649 99.9526,101.234 96.5034,100.826 C 96.0511,100.773 95.5938,100.722 95.1295,100.671 C 94.664,100.62 94.2015,100.572 93.7415,100.527 C 93.3472,100.488 92.9388,100.449 92.5231,100.411 C 92.1,100.373 91.6928,100.337 91.2967,100.302 C 90.8486,100.263 90.4255,100.227 90.004,100.192 C 89.6151,100.158 89.2257,100.125 88.8546,100.093 C 88.3771,100.051 87.9153,100.01 87.4687,99.9705 C 87.0228,99.9308 86.5612,99.8887 86.0878,99.8444 C 85.4973,99.79 84.8635,99.7323 84.2306,99.6758 C 83.4166,99.6025 82.6025,99.5285 81.7873,99.4507 C 81.7299,99.4452 81.6727,99.4397 81.6165,99.4345 C 81.5548,99.428 81.4947,99.4222 81.4388,99.4152 L 81.4394,99.4152 C 81.4265,99.4143 81.4113,99.4125 81.3936,99.4094 L 81.3926,99.4094 C 81.3667,99.4067 81.3407,99.4024 81.3175,99.3975 C 81.2943,99.3929 81.2735,99.3883 81.2582,99.3816 C 81.2582,99.3816 81.2582,99.3816 81.2582,99.3816 L 81.2555,99.3813 C 81.2555,99.3813 81.2567,99.3813 81.257,99.3813 C 81.2384,99.3743 81.2286,99.3667 81.2301,99.3605 C 81.2314,99.3526 81.2424,99.3474 81.2656,99.3428 L 81.2677,99.3425 C 81.2845,99.3385 81.3059,99.337 81.334,99.3358 L 81.3352,99.3358 C 81.363,99.3349 81.3929,99.3343 81.4217,99.3349 L 81.4207,99.3349 C 81.4317,99.3352 81.4504,99.3358 81.4656,99.3361 L 81.4659,99.3364 C 81.4925,99.3376 81.5154,99.3385 81.535,99.3392 L 81.5356,99.3398 C 81.5842,99.3416 81.6013,99.3434 81.6028,99.3431 C 81.6645,99.3468 81.7332,99.3499 81.8087,99.3547 C 81.8783,99.3593 81.9492,99.3642 82.0206,99.3688 C 83.4859,99.4693 84.9646,99.5835 86.432,99.7066 C 88.0256,99.8413 89.628,99.9886 91.2011,100.142 C 94.5534,100.47 97.9101,100.831 101.193,101.227 C 104.479,101.624 107.694,102.058 110.759,102.531 L 110.675,102.557 L 110.781,102.534 C 110.794,102.536 110.821,102.54 110.849,102.545 L 110.858,102.547 C 110.87,102.549 110.901,102.554 110.94,102.56 C 111.013,102.573 111.02,102.574 111.024,102.574 C 111.08,102.583 111.243,102.609 111.4,102.635 C 111.453,102.643 111.506,102.652 111.558,102.66 C 111.798,102.699 112.056,102.741 112.358,102.79 C 112.646,102.837 112.915,102.882 113.155,102.921 C 113.69,103.009 114.229,103.1 114.772,103.194 C 115.304,103.284 115.837,103.376 116.368,103.471 C 116.442,103.484 116.507,103.496 116.566,103.506 C 116.636,103.519 116.702,103.531 116.763,103.542 L 116.772,103.543 C 116.774,103.544 116.774,103.543 116.773,103.544 L 116.775,103.543 C 116.778,103.544 116.782,103.546 116.789,103.547 L 116.663,103.566 z M 116.549,103.587 C 116.549,103.587 116.55,103.588 116.55,103.588 L 116.55,103.588 C 116.55,103.588 116.55,103.588 116.55,103.588 L 116.553,103.588 C 116.553,103.588 116.553,103.588 116.553,103.588 C 116.552,103.588 116.551,103.587 116.55,103.588 C 116.549,103.587 116.549,103.587 116.549,103.587 z M 116.553,103.589 L 116.558,103.589 C 116.554,103.588 116.553,103.588 116.553,103.588 C 116.553,103.588 116.553,103.588 116.553,103.589 z M 116.766,103.542 C 116.765,103.542 116.763,103.542 116.766,103.542 L 116.766,103.542 z M 92.8893,99.8389 C 92.8566,99.8355 92.8242,99.8334 92.7934,99.83 L 92.7952,99.8309 C 92.7919,99.8303 92.7714,99.8285 92.7693,99.8285 C 92.4913,99.8035 92.2253,99.7781 91.8483,99.7424 C 91.7026,99.728 91.556,99.714 91.4094,99.7005 C 90.4997,99.6138 89.5898,99.5261 88.7159,99.4452 C 87.8261,99.363 86.9281,99.282 86.023,99.2029 C 85.1787,99.1287 84.2697,99.0508 83.3216,98.9699 C 82.4529,98.8959 81.5906,98.8248 80.7365,98.7573 C 79.8715,98.6882 79.0073,98.6232 78.1472,98.5627 C 78.146,98.5627 78.1444,98.5624 78.1432,98.5621 C 78.4691,98.5911 78.7923,98.6192 79.1149,98.6476 C 79.3238,98.6653 79.5336,98.6837 79.7426,98.7011 C 81.0166,98.8129 82.2757,98.9247 83.5171,99.0355 C 84.749,99.1467 86.005,99.261 87.2824,99.3798 C 87.6456,99.4128 87.8863,99.4351 88.1465,99.4604 C 88.9841,99.5377 89.821,99.6144 90.6949,99.6935 C 90.92,99.7136 91.1391,99.7332 91.3403,99.7509 C 91.5352,99.7677 91.7472,99.7854 91.9864,99.8047 C 92.1379,99.8169 92.2909,99.8294 92.4302,99.8392 C 92.5738,99.8502 92.7201,99.86 92.8664,99.8667 C 92.8939,99.8688 92.925,99.8703 92.9461,99.87 C 92.9449,99.8673 92.9409,99.8639 92.9361,99.8609 L 92.9367,99.8612 C 92.9296,99.8566 92.9189,99.852 92.9073,99.8465 L 92.9076,99.8462 C 92.9015,99.8438 92.8966,99.841 92.8893,99.8389 z M 76.3972,98.4552 C 76.3969,98.4552 76.3966,98.4552 76.3963,98.4552 L 76.3969,98.4552 C 76.3969,98.4552 76.3969,98.4552 76.3972,98.4552 z M 92.9495,99.8716 C 92.9495,99.8716 92.9495,99.8719 92.9507,99.8719 C 92.9525,99.8716 92.951,99.8716 92.9495,99.8716 z M 92.9913,99.7747 L 93.0051,99.7753 L 93.0045,99.7753 C 93.0042,99.7753 93.0039,99.775 93.0039,99.7747 L 93.0045,99.7753 C 93.0048,99.7753 93.0051,99.7753 93.0051,99.7753 L 93.1053,99.7802 L 93.1633,99.8028 C 93.1694,99.8041 93.1728,99.805 93.1749,99.8065 L 93.1755,99.8068 C 93.1841,99.8099 93.188,99.8114 93.1914,99.8123 L 93.1905,99.8123 C 93.2088,99.819 93.2278,99.8264 93.247,99.8355 L 93.2482,99.8358 C 93.2678,99.8447 93.2846,99.852 93.2989,99.8621 L 93.2998,99.8627 C 93.3139,99.8722 93.3264,99.8823 93.3286,99.8923 C 93.3298,99.9049 93.3169,99.9174 93.2797,99.9268 C 93.229,99.94 93.1526,99.9443 93.0689,99.9446 L 93.0686,99.9446 C 93.002,99.9449 92.9361,99.9421 92.8808,99.9391 C 92.7265,99.9311 92.5667,99.9207 92.4058,99.9094 C 92.2414,99.8972 92.0915,99.8844 91.9452,99.8725 C 91.7494,99.8572 91.5267,99.8383 91.2884,99.8169 C 91.0566,99.7976 90.8428,99.7787 90.6372,99.7598 C 89.8079,99.6852 88.9444,99.6055 88.083,99.5255 C 87.7681,99.4965 87.4324,99.4644 87.2195,99.4455 C 85.99,99.3318 84.7364,99.2176 83.4584,99.1024 C 82.1893,98.9882 80.9326,98.8764 79.69,98.7683 C 79.4811,98.7505 79.2728,98.7316 79.0626,98.7139 C 78.3949,98.6568 77.7269,98.5984 77.0863,98.5398 C 76.9779,98.53 76.8676,98.5199 76.7467,98.508 C 76.634,98.4973 76.5176,98.4854 76.4003,98.4729 L 76.3997,98.4726 C 76.3896,98.472 76.4079,98.4732 76.393,98.4717 L 76.3927,98.472 C 76.3368,98.4665 76.2619,98.4576 76.2011,98.4457 L 76.2021,98.4457 C 76.1779,98.4411 76.1593,98.4356 76.1462,98.431 L 76.1474,98.431 C 76.1092,98.417 76.1064,98.4054 76.1278,98.3968 L 76.1278,98.3968 C 76.1431,98.3904 76.1691,98.3858 76.1999,98.384 L 76.2039,98.3834 C 76.2268,98.3819 76.2515,98.3803 76.2729,98.3806 L 76.2735,98.381 C 76.3493,98.3803 76.4241,98.3846 76.4898,98.3871 C 76.4944,98.388 76.4987,98.3877 76.5023,98.3877 L 76.502,98.388 C 76.5759,98.391 76.6367,98.3944 76.6889,98.3974 L 76.6896,98.3974 C 76.7421,98.4002 76.8053,98.4042 76.871,98.4072 L 76.8713,98.4072 C 77.0842,98.421 77.3008,98.4341 77.521,98.4488 C 77.7367,98.4631 77.9523,98.4781 78.1673,98.4927 C 79.0431,98.5547 79.9118,98.6204 80.7747,98.6885 C 81.6498,98.7576 82.513,98.8297 83.3695,98.9021 C 84.226,98.9751 85.1219,99.052 86.0765,99.136 C 86.9721,99.2145 87.8716,99.2958 88.7785,99.3801 C 89.7043,99.465 90.5914,99.5499 91.4781,99.6348 C 91.6244,99.6486 91.7713,99.662 91.9183,99.6764 L 92.0307,99.6871 C 92.2976,99.7133 92.5667,99.7387 92.8236,99.7607 C 92.8371,99.7628 92.8279,99.7619 92.8481,99.7631 L 92.8493,99.7631 C 92.8948,99.7671 92.9443,99.772 92.9883,99.7744 L 93.0039,99.7747 C 92.9987,99.7753 92.9852,99.7741 92.9913,99.7747 z M 76.1462,98.431 C 76.1462,98.431 76.1462,98.431 76.1462,98.4307 L 76.1462,98.431 z"
+             style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        </g>
+        <path
+           id="path4813"
+           d="M 0.8621803,576.38244 C 7.5986674,574.31528 13.064322,572.59673 13.064322,572.59673 L 47.299198,566.97837 L 162.15953,566.258 C 250.16752,574.62496 350.89047,600.05065 417.54574,626.21484 C 423.71267,628.63732 424.27635,605.87536 430.82914,607.0564 L 432.38597,595.92371 L 426.03786,589.0203 L 423.15906,577.25984 L 413.42883,576.9666 L 413.53284,572.53633 L 403.79257,572.24308 L 403.87645,568.54729 L 392.21028,568.198 L 392.25725,566.25062 L 385.36222,566.04461 L 385.42262,563.42718 L 345.00538,559.57872 C 343.07947,558.33762 341.15691,556.91835 342.35809,558.00981 C 343.92498,559.49585 348.35055,560.02564 346.70312,556.69992 C 345.99853,555.2404 343.49216,556.86601 342.38493,556.83313 C 340.90527,556.78816 340.08324,555.06223 338.85186,555.02733 C 337.12727,554.97399 340.91869,556.26441 341.18711,555.22596 C 341.8548,553.02157 337.82852,551.19934 336.32872,552.20054 C 333.82232,553.95635 333.25528,557.21026 329.98335,554.75892 C 329.49953,554.35294 327.41291,554.02714 327.65783,554.03217 C 330.09811,555.15249 334.31554,553.97077 333.64114,551.07318 C 332.18506,544.87606 329.96289,550.30785 329.11133,549.88845 C 327.28473,548.9161 327.73064,545.65984 324.15597,545.55146 C 320.21524,545.43235 325.46585,547.55287 325.38164,551.21578 C 325.32728,553.54331 319.24591,550.71786 318.72719,552.02339 C 315.75914,552.09418 315.96515,554.92902 314.31605,555.69134 C 313.52188,556.02149 311.73453,550.97387 310.15019,556.51338 C 309.59054,558.50169 311.67515,559.73239 313.69702,559.80218 C 313.68997,559.83104 313.68293,559.86157 313.67655,559.89244 C 313.5259,559.94243 313.39907,560.00014 313.31889,560.05852 C 312.75822,560.43129 312.28681,560.6373 311.87915,560.71212 C 311.14435,560.081 310.42264,559.6985 309.69824,559.64113 C 309.11812,558.95263 308.53699,558.07624 307.66697,557.39177 C 306.3477,556.40064 302.61432,557.83333 303.1317,559.87096 C 303.32966,560.82822 306.8285,559.86257 305.25926,559.81459 C 304.13626,559.78272 303.32227,561.30264 301.97884,561.26372 C 300.96824,561.23185 298.76687,559.61966 298.06696,560.90807 C 297.92738,561.15401 297.82807,561.38049 297.76465,561.5855 C 296.91175,560.10247 296.09508,557.89707 294.27688,555.47325 C 292.38083,552.94272 287.96667,554.84078 284.34267,554.72905 L 284.30778,556.19563 L 280.79786,556.08692 L 280.77606,557.00525 L 277.60233,556.91097 L 277.5775,557.94606 C 277.04972,557.32702 276.83029,556.96029 276.31392,557.75448 C 276.17032,556.39963 276.3817,554.83575 276.3817,554.83575 L 273.83473,552.95413 L 270.4097,552.85146 L 270.59726,544.7764 L 265.13056,544.61267 L 264.95441,552.2039 L 264.02367,552.17504 C 264.01326,552.25792 264.01024,552.34113 264.00723,552.42937 C 263.75726,552.42098 263.29994,552.40655 262.69533,552.3881 L 262.91376,542.8817 L 257.44505,542.71662 L 257.22561,552.22336 C 253.01948,552.09821 248.48353,551.96098 248.48353,551.96098 C 248.48353,551.96098 248.50802,551.86133 248.5144,551.70766 L 247.25786,551.66673 L 247.42596,544.40968 L 245.0132,544.33586 L 245.84865,541.3054 L 245.98488,540.75917 L 245.93254,540.58067 L 245.74901,540.50283 L 245.09742,540.48438 L 244.46395,540.61657 L 243.92912,540.91284 L 243.78049,540.00054 L 243.46576,538.3709 L 242.89604,536.26717 L 242.34646,534.59223 L 243.65131,529.84021 L 243.78854,529.28156 L 243.71271,529.09098 L 243.56004,529.01616 L 242.89805,528.99569 L 242.2411,529.15238 L 241.40363,529.64225 L 241.01644,530.11366 L 241.01644,530.11366 L 240.7856,530.57165 L 240.72722,530.75115 L 239.95048,529.37483 L 238.77681,527.57911 L 237.50417,525.7703 L 236.56336,524.51175 L 236.11947,524.03631 L 237.27769,519.75938 L 237.43337,519.21214 L 237.376,519.00009 L 237.17805,518.94573 L 236.51505,518.92829 L 235.89197,519.04807 L 235.04243,519.55135 L 234.65289,520.03116 L 234.65289,520.03116 L 234.41399,520.47069 L 233.95701,521.87385 L 233.19437,521.181 L 231.58753,519.97344 L 229.464,518.50184 L 227.34147,517.29059 L 227.04924,517.1594 L 228.1162,513.28947 L 228.25243,512.7174 L 228.19807,512.52984 L 228.03634,512.46643 L 227.3445,512.44596 L 226.7315,512.58017 L 225.86652,513.07305 L 225.47093,513.56091 L 225.47093,513.56091 L 225.2713,514.01185 L 224.55998,516.12331 L 224.1654,515.97668 L 221.50168,515.16907 L 219.69891,514.74665 L 217.89412,514.51715 L 216.97882,514.43025 L 217.95552,510.9106 L 218.09107,510.34894 L 218.03773,510.15735 L 217.84178,510.07246 L 217.1922,510.053 L 216.56813,510.19828 L 215.70717,510.68714 L 215.30958,511.17902 L 215.30958,511.17902 L 215.07572,511.62896 L 214.19229,514.33999 L 213.08035,514.38395 L 212.95118,514.39301 L 211.76544,514.42388 L 211.51849,514.49869 L 211.2551,514.51614 L 209.40402,514.8114 L 207.7623,515.14861 L 206.90537,515.45092 L 207.68647,512.62513 L 207.80826,512.05642 L 207.7717,511.86584 L 207.58413,511.80243 L 206.9208,511.78397 L 206.29069,511.92724 L 205.43779,512.39261 L 205.04858,512.90093 L 205.04858,512.90093 L 204.81975,513.34986 L 203.90578,516.077 L 201.49639,516.14377 L 201.05249,516.25952 L 200.69079,516.57828 L 200.48176,517.06512 L 200.23549,518.40152 L 200.09624,518.48439 L 198.73099,519.33394 L 198.01465,519.87111 L 198.46559,518.19953 L 198.62362,517.65329 L 198.56424,517.4503 L 198.38473,517.3889 L 197.71235,517.36844 L 197.09128,517.51406 L 196.22831,518.01499 L 195.84213,518.48439 L 195.84213,518.48439 L 195.6227,518.92728 L 194.7094,521.6514 L 192.3094,521.72086 L 191.8665,521.84701 L 191.48032,522.16374 L 191.29376,522.6865 L 190.95455,524.51778 L 193.0093,524.57717 L 192.06345,525.79379 L 191.44542,526.63226 L 190.91664,526.61682 L 190.25968,526.76043 L 189.4202,527.24291 L 189.0216,527.74318 L 189.0216,527.74318 L 188.80316,528.18373 L 187.88987,530.93569 L 185.49993,531.00314 L 185.05737,531.0954 L 184.68428,531.41113 L 184.46585,531.90939 L 184.13502,533.76718 L 187.59797,533.86281 L 187.57649,533.91481 L 186.98932,535.51493 L 186.55247,537.14523 L 186.20823,538.63665 L 185.99718,539.75058 L 185.91598,539.85728 L 185.91598,539.85728 L 185.69588,540.28876 L 184.79197,543.05282 L 182.36178,543.09374 L 181.91486,543.1981 L 181.53169,543.51583 L 181.35755,544.02315 L 181.00391,545.86685 L 185.53382,545.99503 L 185.54087,546.49931 L 185.96027,549.38281 L 187.43232,549.45998 L 186.90913,545.58937 L 187.20641,544.49658 L 212.21839,545.25217 L 211.72853,547.38074 L 203.87794,555.56853 L 199.3809,555.43332 L 199.50807,549.80457 L 172.94931,549.003 L 172.94328,549.31068 L 169.92725,549.2174 L 160.5413,552.31026 L 160.49298,554.38045 L 156.34556,554.25463 L 157.28537,513.54245 L 155.12694,495.29664 L 152.04112,513.38576 L 151.35028,543.20648 L 146.64523,540.70682 L 147.20656,516.43467 L 145.03806,498.18383 L 141.95325,516.27496 L 141.45299,537.94077 L 126.60269,530.02776 L 122.40797,533.70477 L 122.82603,515.69886 L 120.57835,497.44501 L 117.57372,515.54016 L 117.04461,538.41017 L 111.77083,543.03637 L 112.52107,510.57441 L 110.28681,491.68004 L 107.27045,510.41772 L 106.31958,551.53655 C 105.28415,551.88314 104.20913,552.25692 103.11263,552.64746 L 99.325575,552.53272 L 99.356455,551.18592 C 99.008845,549.68142 98.165675,547.28948 96.495098,548.60137 C 95.200645,547.91993 94.400085,547.75384 93.986048,548.75706 L 93.898141,552.65686 C 93.459275,547.52535 93.160994,538.539 93.028798,539.54457 C 92.104428,539.51672 93.291178,534.71739 91.264947,535.86622 C 90.375472,534.42413 89.631615,533.19847 88.964257,535.18679 C 87.885211,535.55887 87.119545,528.49342 87.084651,530.10762 C 86.611226,530.49582 83.518029,524.16414 83.518029,524.16414 L 83.455621,526.98389 L 80.99388,526.90672 C 80.99388,526.90672 80.763375,523.47363 79.350818,524.44095 C 78.454297,523.40385 76.902498,523.9645 76.902498,523.9645 C 76.266008,524.74762 73.623085,525.88102 74.037122,527.90523 C 72.513171,527.25432 72.250791,525.23212 71.417349,528.02301 C 70.681544,527.81095 69.621958,527.77069 68.707654,527.7915 L 68.759996,525.5663 L 64.722969,525.44215 L 64.766923,523.69273 L 60.19809,523.55751 L 60.228958,522.23454 L 55.182339,522.08188 L 55.230654,519.97982 L 39.793857,496.17404 L 40.123007,481.92534 L 32.809586,481.70489 L 32.32576,502.66777 L 29.891531,502.59161 L 30.474672,477.39005 L 23.167459,477.16894 L 22.587404,502.37251 L 20.687297,502.31716 L 21.196656,480.22389 L 13.890349,480.00144 L 13.380956,502.09471 L 0.8621803,501.71657 L 0.8621803,576.38244 z M 155.29806,560.81177 C 145.71247,568.36912 144.94177,565.62252 144.08585,560.64267 L 155.29806,560.81177 z M 449.65541,577.87184 C 450.84987,576.94009 452.05105,581.14823 451.7927,577.73327 C 451.46388,574.51123 450.1654,574.53068 450.21909,572.99332 C 450.24593,572.20617 451.81953,573.13994 452.31947,572.97486 C 452.70532,572.84468 452.00743,571.59451 452.23224,571.29187 C 452.47381,570.95903 452.01749,570.34602 452.22217,570.01184 C 452.82946,569.01567 454.02393,568.48991 455.04728,569.21967 C 455.70155,569.68002 455.65122,571.1741 456.47997,571.42206 C 457.047,571.58713 456.35583,570.52352 457.40602,567.12601 C 457.50667,566.80088 459.29502,570.39938 459.63726,570.1011 C 460.211,569.59982 459.43929,565.18365 459.64396,564.3945 C 462.30467,554.14189 459.78153,573.42581 464.09972,568.54225 C 464.94188,567.50716 464.19702,565.23097 464.26413,564.22875 C 464.33459,563.22016 468.39443,560.82586 467.0926,565.83457 C 465.1734,573.22885 466.89464,573.22382 468.5018,567.02334 C 469.18292,564.40289 471.74632,568.50232 471.7329,570.03567 C 471.64566,577.20649 461.47928,571.90588 468.94133,575.62819 C 469.11916,575.68053 466.72017,573.17047 469.01851,573.85427 C 478.05417,577.16657 465.53577,584.74974 473.05486,578.90256 C 473.77289,578.34425 472.83342,582.69063 472.70927,583.16305 C 470.41093,587.62015 475.23242,580.06281 475.06801,584.38168 C 474.98077,588.20028 474.70564,588.61632 472.14559,589.77757 C 472.04829,590.35266 471.92415,590.92138 471.89059,591.04753 C 470.47133,593.78642 473.44072,589.13908 473.34006,591.79475 C 473.27295,594.77622 473.02131,594.38366 469.9412,595.83983 C 467.77706,596.93699 468.99837,595.40364 469.34397,594.08168 C 469.41778,593.78977 465.65991,593.78307 467.18655,594.23267 C 467.62272,594.36352 467.60596,592.6188 465.69681,594.10853 C 463.9286,595.48081 465.43846,597.35305 464.9184,594.82655 C 464.22722,591.61826 463.11999,599.5071 462.89854,599.44336 C 460.76462,598.80922 460.88205,597.07455 460.32843,596.60482 L 460.91895,618.72258 L 459.8285,618.01798 L 459.48627,619.00442 L 457.73147,618.30653 L 454.92314,594.51787 C 454.91978,594.39372 454.91978,594.27293 454.91978,594.1555 C 453.99709,592.25475 454.2286,590.68349 450.30968,593.72938 C 449.35343,594.47424 449.78626,597.94021 447.60871,596.78265 C 442.68656,594.1555 443.53544,588.23719 444.53195,584.36725 C 441.13309,582.40074 441.35454,578.53583 442.294,577.78359 C 444.18637,581.94242 437.90871,571.39354 442.6396,574.28978 C 440.94185,565.13869 447.42082,579.60784 449.65541,577.87184 z M 456.09076,599.66648 C 456.07063,599.65642 456.15535,599.62018 456.1285,599.60676 C 455.79298,599.42894 455.82906,598.81928 455.61432,598.27573 L 460.93573,614.85063 L 456.09076,599.66648 z M 299.80296,563.42819 C 299.59997,563.38189 299.41342,563.31345 299.23827,563.22218 C 300.17506,563.23661 301.30645,562.88196 301.954,562.3327 C 303.01795,561.46235 301.48897,562.4555 299.80296,563.42819 z M 320.53298,557.97793 C 320.17229,556.86702 318.4997,555.46284 318.28228,555.08673 C 317.92361,555.66987 317.65821,556.33924 317.64076,557.09853 C 317.61526,558.16852 319.05198,558.12758 320.53298,557.97793 z M 318.65539,554.53646 C 319.3063,554.51063 320.45212,554.90621 320.61183,554.99647 C 320.61183,554.99647 319.95924,554.48513 319.3781,553.68692 C 319.14525,553.9399 318.89428,554.22376 318.65539,554.53646 z M 194.89294,524.62851 L 196.18537,524.6634 L 196.56451,524.61508 L 196.79938,524.35304 L 196.82489,524.25742 L 212.92367,542.93706 L 212.617,543.54871 L 212.47876,544.14428 L 187.50369,543.39001 L 188.54079,539.57544 L 188.70788,539.02686 L 188.62501,538.85171 L 188.44852,538.77487 L 187.77311,538.7524 L 187.603,538.79031 L 187.82042,537.73576 L 188.13179,536.66779 L 188.40859,535.67766 L 189.07595,533.90173 L 189.37624,533.91179 L 189.76545,533.86281 L 189.98992,533.61452 L 190.9371,530.12305 L 191.56621,529.05206 L 192.78987,527.24828 L 194.15814,525.41162 L 194.89294,524.62851 z M 197.16711,523.00927 L 197.36205,522.28152 L 198.25857,521.51384 L 200.52471,519.96238 L 202.32446,518.97828 L 205.35089,519.06552 L 205.75956,519.01955 L 205.99845,518.73368 L 206.42993,517.17987 L 207.03354,516.94601 L 209.07923,516.39776 L 210.61459,516.18973 L 210.41764,517.21041 L 215.06566,517.33153 L 214.50398,541.74695 L 214.14732,541.80332 L 213.6276,542.08818 L 197.16711,523.00927 z M 216.1088,517.22181 L 216.25543,517.04868 L 216.57216,515.90286 L 217.80488,516.0411 L 220.33841,516.37428 L 221.9127,516.80173 L 221.48021,516.92554 L 221.12153,517.23322 L 220.93497,517.71469 L 220.58234,519.58222 L 225.8135,519.73891 L 226.19063,519.66812 L 226.42919,519.40775 L 226.65701,518.59209 L 226.74491,518.63303 L 228.442,519.60973 L 229.95085,520.52404 L 231.66437,521.83158 L 233.15041,523.08409 L 233.27958,523.2193 L 231.09968,523.28909 L 230.64371,523.40485 L 230.26221,523.70918 L 230.08607,524.2195 L 229.73242,526.06455 L 232.09988,526.13601 L 216.68087,542.21233 L 216.34266,541.98484 L 215.5431,541.69461 L 216.1088,517.22181 z M 233.55002,526.1803 L 234.99713,526.22326 L 235.37426,526.15246 L 235.61215,525.89948 L 235.65208,525.75889 L 236.14496,526.32895 L 237.43841,528.08038 L 238.80567,530.23344 L 239.73607,531.91643 L 240.07663,532.70055 L 239.87163,533.3112 L 237.47431,533.3716 L 237.01933,533.48434 L 236.65864,533.80207 L 236.44425,534.29932 L 236.11745,536.14101 L 241.3382,536.29871 L 241.41504,536.28664 L 241.81566,537.63209 L 242.31089,540.03947 L 242.66755,542.72165 L 242.68366,542.96054 L 242.26458,544.25298 L 241.95524,544.24359 L 241.94282,544.78176 L 239.69213,544.82572 L 239.21668,544.93041 L 239.19118,544.94752 L 217.82232,544.30197 L 217.68409,543.75171 L 217.39184,543.03939 L 233.55002,526.1803 z M 238.61006,546.04736 L 238.31479,547.59816 L 241.87605,547.69948 L 241.78714,551.50466 L 241.25198,551.48856 C 241.24594,551.50601 241.24493,551.5201 241.24493,551.5201 C 241.24493,551.5201 241.24392,551.50601 241.24694,551.48755 L 235.38366,551.31107 C 235.31891,554.17242 235.21757,558.54463 235.21757,558.54463 C 235.21757,558.54463 235.10483,555.83796 233.86172,557.37835 C 233.03063,555.998 232.5223,555.53062 232.14283,556.87608 C 231.11914,556.39258 231.49627,555.04982 230.59942,556.60464 C 229.94682,555.00183 229.81127,553.41615 228.88892,555.87084 C 227.50455,556.0584 227.16835,555.8195 227.29518,557.63034 C 227.2388,557.66322 227.16734,557.6867 227.09453,557.6971 L 218.74904,548.02965 L 218.10114,545.42833 L 238.61006,546.04736 z M 225.39611,557.40923 L 219.34224,550.38268 L 221.52416,559.10127 C 221.90867,559.08584 222.36666,559.15026 222.77466,559.07342 C 222.98872,557.27502 223.13937,558.18092 224.86128,558.45841 C 224.74251,557.63772 224.99952,557.41526 225.39611,557.40923 z M 211.25409,549.44589 L 209.32617,557.76354 L 206.58259,557.68066 L 205.51563,559.00162 L 204.13327,558.9617 L 204.18225,556.82071 L 211.25409,549.44589 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701"
+           sodipodi:nodetypes="ccccccccccccccccccssssscccsssscsssssccssssscsccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccssssssssscssssccscccsccsssssccccccssscccccsccccsscccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccc" />
+        <path
+           id="path4815"
+           d="M 96.751938,492.98024 L 91.540244,505.17219 L 95.829251,507.9812 L 91.20841,505.8835 L 85.614551,516.78501 L 90.418252,505.46745 L 85.266948,501.74179 L 90.751091,504.75613 L 96.751938,492.98024 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4817"
+           d="M 343.23709,468.84157 L 331.85441,495.46776 L 343.99874,501.68772 L 331.12665,497.01957 L 318.91726,520.82635 L 329.40709,496.10526 L 318.15797,487.97618 L 330.1335,494.55581 L 343.23709,468.84157 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4819"
+           d="M 362.73105,519.8658 L 362.98604,525.91463 L 368.54569,524.61279 L 363.21085,526.71586 L 366.11649,531.93863 L 362.55994,527.19029 L 358.792,531.71618 L 361.93585,526.67795 L 356.70168,524.25311 L 362.19422,525.8898 L 362.73105,519.8658 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4821"
+           d="M 291.7633,524.22459 L 299.28407,528.40086 L 301.81527,519.82353 L 300.42552,528.69411 L 308.90355,528.62935 L 300.52082,529.93622 L 303.22548,538.47732 L 299.43774,530.41165 L 292.63566,535.75219 L 298.67308,529.46448 L 291.7633,524.22459 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4823"
+           d="M 468.15462,419.38665 L 473.85521,426.06962 L 479.0357,418.96523 L 474.83494,426.7665 L 482.81707,429.82682 L 474.51619,427.96365 L 474.27126,436.95906 L 473.34521,428.00861 L 465.21207,430.50726 L 472.93587,426.83931 L 468.15462,419.38665 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4825"
+           d="M 344.94491,505.16715 L 352.46736,509.34645 L 355.00058,500.76608 L 353.60815,509.63734 L 362.08349,509.57494 L 353.70545,510.87945 L 356.40977,519.42089 L 352.62171,511.35422 L 345.81728,516.69677 L 351.85671,510.40704 L 344.94491,505.16715 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4827"
+           d="M 312.20798,454.96094 L 308.23537,464.24825 L 312.47137,466.41774 L 307.98339,464.79045 L 303.72291,473.09602 L 307.3828,464.47372 L 303.45751,461.63586 L 307.63512,463.9305 L 312.20798,454.96094 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4829"
+           d="M 276.23759,553.13805 L 276.46943,553.14443 L 277.19081,555.82627 L 279.66162,554.89486 L 279.80119,555.09047 L 278.27925,557.35761 L 280.51351,558.8262 L 280.45714,559.06609 L 277.83536,559.20836 L 278.15108,561.97375 L 277.94105,562.07508 L 276.19464,559.98745 L 274.35597,561.96838 L 274.14895,561.85363 L 274.59049,559.10904 L 271.98146,558.81278 L 271.93416,558.56985 L 274.23517,557.23347 L 272.81759,554.88144 L 272.96924,554.69287 L 275.39106,555.77326 L 276.23759,553.13805 z M 276.34227,553.61584 L 275.58265,555.98934 L 275.53869,556.12053 L 275.41891,556.06718 L 273.23464,555.09248 L 274.51064,557.21199 L 274.58245,557.32775 L 274.46568,557.39552 L 272.3955,558.5967 L 274.74853,558.86311 L 274.87771,558.88055 L 274.85624,559.01476 L 274.45529,561.4879 L 276.11043,559.7046 L 276.2037,559.60629 L 276.28993,559.70963 L 277.8632,561.59125 L 277.57599,559.09898 L 277.5619,558.96041 L 277.68974,558.95437 L 280.05116,558.82721 L 278.04036,557.50524 L 277.92662,557.43042 L 278.00345,557.31566 L 279.37272,555.27903 L 277.15189,556.11952 L 277.02674,556.16449 L 276.99285,556.03229 L 276.34227,553.61584 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4831"
+           d="M 426.76103,456.94086 L 440.65173,464.66127 L 445.32895,448.81279 L 442.76219,465.20348 L 458.41439,465.08672 L 442.93666,467.49612 L 447.93597,483.26877 L 440.93357,468.37217 L 428.37155,478.23659 L 439.52437,466.61973 L 426.76103,456.94086 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4833"
+           d="M 248.29446,476.96294 L 252.27511,482.4662 L 256.66679,477.36455 L 252.98139,483.06276 L 258.92152,485.94256 L 252.66567,483.96264 L 251.94831,490.83954 L 251.7658,483.91768 L 245.37675,485.29198 L 251.52187,482.99533 L 248.29446,476.96294 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4835"
+           d="M 352.90944,431.55175 L 356.88708,437.05334 L 361.28275,431.95336 L 357.59433,437.65191 L 363.53851,440.53272 L 357.28262,438.54844 L 356.56129,445.43372 L 356.37876,438.50549 L 349.99374,439.87879 L 356.13684,437.58212 L 352.90944,431.55175 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4837"
+           d="M 397.11408,435.84176 L 401.09675,441.34737 L 405.48876,436.24573 L 401.80136,441.94393 L 407.74348,444.82173 L 401.48932,442.83878 L 400.76793,449.72072 L 400.58675,442.79986 L 394.19837,444.17114 L 400.34183,441.87213 L 397.11408,435.84176 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4839"
+           d="M 395.94795,471.43249 L 394.20993,477.19143 L 399.86016,478.02051 L 394.16296,478.02654 L 395.18295,483.98713 L 393.39461,478.22954 L 388.37852,481.08283 L 392.97521,477.52023 L 388.84825,473.32652 L 393.47513,476.87872 L 395.94795,471.43249 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4841"
+           d="M 396.96794,511.95045 L 395.23328,517.7124 L 400.88015,518.54148 L 395.1796,518.54987 L 396.2063,524.50744 L 394.41461,518.75253 L 389.39852,521.60381 L 393.9952,518.04156 L 389.86825,513.84649 L 394.49848,517.39768 L 396.96794,511.95045 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4843"
+           d="M 381.36271,463.84226 L 379.62805,469.6022 L 385.27828,470.43128 L 379.57772,470.43934 L 380.60107,476.39825 L 378.81273,470.64132 L 373.79664,473.49563 L 378.39332,469.93337 L 374.26637,465.7363 L 378.89661,469.29051 L 381.36271,463.84226 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4845"
+           d="M 275.86884,471.86196 L 276.12183,477.90978 L 281.68583,476.60929 L 276.35032,478.71337 L 279.25193,483.93311 L 275.70075,479.18477 L 271.93114,483.71066 L 275.07231,478.67545 L 269.83746,476.25263 L 275.33368,477.88529 L 275.86884,471.86196 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4847"
+           d="M 459.3102,411.56893 L 457.57218,417.33056 L 463.22241,418.15963 L 457.52186,418.164 L 458.54856,424.12358 L 456.75686,418.36866 L 451.74077,421.22095 L 456.33746,417.6587 L 452.21051,413.46263 L 456.83738,417.01717 L 459.3102,411.56893 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4849"
+           d="M 418.86428,534.39533 L 417.12627,540.15394 L 422.77985,540.98537 L 417.07594,540.9894 L 418.09929,546.94797 L 416.31095,541.19339 L 411.29147,544.04769 L 415.89154,540.48611 L 411.76455,536.28836 L 416.39483,539.84156 L 418.86428,534.39533 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4851"
+           d="M 514.23703,544.0732 L 514.49203,550.12102 L 520.05167,548.81818 L 514.71348,550.9246 L 517.61912,556.14502 L 514.06592,551.39803 L 510.29799,555.92391 L 513.43849,550.88434 L 508.20767,548.46286 L 513.7002,550.09955 L 514.23703,544.0732 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4853"
+           d="M 485.11354,464.01237 L 485.36854,470.06019 L 490.93153,468.76172 L 485.59333,470.86478 L 488.49562,476.08453 L 484.94242,471.33921 L 481.17448,475.8661 L 484.31499,470.82787 L 479.08081,468.40304 L 484.58005,470.03671 L 485.11354,464.01237 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4855"
+           d="M 541.56213,507.90436 L 538.31425,517.83118 L 533.71421,516.22838 L 538.13978,518.42271 L 535.76427,527.83617 L 538.80076,518.64214 L 543.61554,519.51316 L 538.97188,518.04658 L 541.56213,507.90436 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4857"
+           d="M 585.6049,450.3562 L 582.88715,458.67183 L 579.02862,457.33242 L 582.73952,459.1721 L 580.7465,467.06262 L 583.29313,459.35563 L 587.32614,460.08304 L 583.43741,458.85536 L 585.6049,450.3562 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4859"
+           d="M 476.9301,512.21819 L 475.32629,517.11081 L 473.05815,516.32165 L 475.24242,517.40607 L 474.07144,522.04872 L 475.56788,517.51477 L 477.94339,517.9419 L 475.65176,517.21951 L 476.9301,512.21819 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4861"
+           d="M 546.26953,567.72933 L 546.49433,573.14167 L 551.47686,571.9774 L 546.69901,573.86003 L 549.29596,578.53354 L 546.11855,574.28246 L 542.74317,578.33256 L 545.55487,573.82513 L 540.8743,571.65664 L 545.78973,573.12121 L 546.26953,567.72933 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4863"
+           d="M 520.65897,461.74355 L 516.82057,474.02743 L 522.43725,476.1674 L 516.57228,474.74713 L 512.24403,485.82983 L 515.77038,474.42839 L 510.4691,471.408 L 516.02202,473.70868 L 520.65897,461.74355 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4865"
+           d="M 71.4712,495.51681 L 71.725527,501.56563 L 77.287512,500.26716 L 71.949993,502.36821 L 74.854291,507.59064 L 71.299076,502.84365 L 67.53181,507.36953 L 70.672988,502.33029 L 65.440823,499.90949 L 70.934361,501.54416 L 71.4712,495.51681 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4867"
+           d="M 385.83189,545.33577 L 385.67755,539.41612 L 384.05361,541.84599 L 385.29505,537.92606 L 380.01726,542.54925 L 383.36243,538.51423 L 380.55409,540.22071 L 382.71488,538.16697 L 378.27589,539.56174 L 384.59381,536.37929 L 384.66762,536.30783 L 379.40996,535.00096 L 382.93632,535.0778 L 382.52027,534.85332 L 383.6879,534.85433 L 380.51383,532.38253 L 385.01657,534.53559 L 384.29519,532.50633 L 384.90249,533.09786 L 384.66762,531.63833 L 385.87551,533.63269 L 385.9359,532.13122 L 386.64051,533.79676 L 387.93898,531.71013 L 387.76787,532.71772 L 389.16029,531.20685 L 387.70748,534.23227 L 389.58305,532.92038 L 388.42549,534.79293 L 392.35112,534.32353 L 388.55635,535.82198 L 391.79416,537.10805 L 388.9422,536.93694 L 391.86798,539.22353 L 390.94528,538.81654 L 391.25061,539.06148 L 388.41878,537.85627 L 390.41851,541.4598 L 387.36189,538.14851 L 388.01951,541.88625 L 386.63715,538.79909 L 385.83189,545.33577 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4869"
+           d="M 583.39864,566.43286 L 580.12057,575.84935 L 589.43808,577.66319 L 579.9763,577.2307 L 581.26471,587.19376 L 578.69459,577.50952 L 570.17563,581.85289 L 578.04702,576.29929 L 571.49424,569.01942 L 578.9261,575.27326 L 583.39864,566.43286 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4871"
+           d="M 164.31798,436.52657 L 161.07513,446.13161 L 165.4648,447.92701 L 160.86308,446.69227 L 157.26056,455.33907 L 160.24303,446.42687 L 156.11374,443.93829 L 160.45408,445.8642 L 164.31798,436.52657 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <path
+           id="path4873"
+           d="M 61.810298,431.94431 L 75.702342,439.66472 L 80.377872,423.8159 L 77.811448,440.20693 L 93.463316,440.08983 L 77.984578,442.49957 L 82.986237,458.27222 L 75.981163,443.37562 L 63.419137,453.24003 L 74.573975,441.62318 L 61.810298,431.94431 z"
+           style="fill:#03457a;fill-rule:evenodd;stroke:none;stroke-width:0.21602701" />
+        <text
+           sodipodi:linespacing="120%"
+           id="text2558"
+           y="272.23901"
+           x="93.763428"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:120.00000477%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0d436f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49803922;visibility:visible;display:inline;overflow:visible;filter:url(#filter3255);enable-background:accumulate;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+           xml:space="preserve"
+           transform="matrix(3.355242,0,0,3.355242,-271.07932,-648.63145)"><tspan
+             sodipodi:role="line"
+             id="tspan2578"
+             x="93.763428"
+             y="272.23901">ПОРТАЛ</tspan><tspan
+             sodipodi:role="line"
+             id="tspan2580"
+             x="93.763428"
+             y="291.43903">ИНТЕРНЕТ</tspan><tspan
+             sodipodi:role="line"
+             id="tspan2582"
+             x="93.763428"
+             y="310.63901">КОММЕРЦИИ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:120.00000477%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#00447c;fill-opacity:1;fill-rule:nonzero;stroke:#0d436f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49803922;visibility:visible;display:inline;overflow:visible;filter:url(#filter3807);enable-background:accumulate;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+           x="88.674164"
+           y="276.7926"
+           id="text2564"
+           sodipodi:linespacing="120%"
+           transform="matrix(3.355242,0,0,3.355242,-271.07932,-648.63145)"><tspan
+             sodipodi:role="line"
+             id="tspan2572"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;fill:#00447c;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+             x="88.674164"
+             y="276.7926">ПОРТАЛ</tspan><tspan
+             sodipodi:role="line"
+             id="tspan2574"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;fill:#00447c;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+             x="88.674164"
+             y="295.99261">ИНТЕРНЕТ</tspan><tspan
+             sodipodi:role="line"
+             id="tspan2576"
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;fill:#00447c;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+             x="88.674164"
+             y="315.1926">КОММЕРЦИИ</tspan></text>
+        <flowRoot
+           transform="matrix(6.8093674,0,0,6.8093674,-1628.7782,-406.94453)"
+           style="font-size:6.85000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#3b678b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           id="flowRoot3366"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3368"><rect
+               style="font-size:6.85000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#3b678b;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+               y="95"
+               x="303"
+               height="22"
+               width="203"
+               id="rect3370" /></flowRegion><flowPara
+             id="flowPara3374">Нижнекамск</flowPara></flowRoot>        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:120.00000477%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ebf0f3;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter3255);enable-background:accumulate;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+           x="13.220516"
+           y="379.4743"
+           id="text5002"
+           sodipodi:linespacing="120%"
+           transform="matrix(3.355242,0,0,3.355242,-21.217001,-611.27083)"><tspan
+             y="379.4743"
+             x="13.220516"
+             id="tspan5004"
+             sodipodi:role="line">www.pic-nk.ru</tspan></text>
+        <text
+           sodipodi:linespacing="120%"
+           id="text5006"
+           y="381.27789"
+           x="11.381252"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:120.00000477%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ebf0f3;fill-opacity:1;fill-rule:nonzero;stroke:#0d436f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49803922;visibility:visible;display:inline;overflow:visible;filter:url(#filter3807);enable-background:accumulate;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+           xml:space="preserve"
+           transform="matrix(3.355242,0,0,3.355242,-21.217001,-611.27083)"><tspan
+             y="381.27789"
+             x="11.381252"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;fill:#ebf0f3;fill-opacity:1;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+             id="tspan5008"
+             sodipodi:role="line">www.pic-nk.ru</tspan></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5266"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ebf0f3;fill-opacity:0.49803922;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter5298);enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           transform="matrix(3.355242,0,0,3.355242,-996.29301,368.66943)"><flowRegion
+             id="flowRegion5268"><rect
+               id="rect5270"
+               width="203"
+               height="22"
+               x="303"
+               y="95"
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebf0f3;fill-opacity:0.49803922;font-family:Verdana;-inkscape-font-specification:Verdana Bold" /></flowRegion><flowPara
+             id="flowPara5272">Portal of Internet Commerce</flowPara></flowRoot>        <flowRoot
+           transform="matrix(3.355242,0,0,3.355242,-997.47925,369.41084)"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ebf0f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter5298);enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           id="flowRoot5302"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5304"><rect
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebf0f3;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+               y="95"
+               x="303"
+               height="22"
+               width="203"
+               id="rect5306" /></flowRegion><flowPara
+             id="flowPara5310">P</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5312"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ebf0f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter5298);enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           transform="matrix(3.355242,0,0,3.355242,-822.58726,368.99143)"><flowRegion
+             id="flowRegion5314"><rect
+               id="rect5316"
+               width="203"
+               height="22"
+               x="303"
+               y="95"
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebf0f3;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold" /></flowRegion><flowPara
+             id="flowPara5320">I</flowPara></flowRoot>        <flowRoot
+           transform="matrix(3.355242,0,0,3.355242,-652.20388,368.36233)"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ebf0f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter5298);enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           id="flowRoot5322"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5324"><rect
+               style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ebf0f3;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+               y="95"
+               x="303"
+               height="22"
+               width="203"
+               id="rect5326" /></flowRegion><flowPara
+             id="flowPara5330">C</flowPara></flowRoot>        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+           x="557"
+           y="429"
+           id="text3423"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3431"
+             x="557"
+             y="429">  • Актуальные курсы обмена валют</tspan></text>
+        <text
+           sodipodi:linespacing="120%"
+           id="text3433"
+           y="458"
+           x="557"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:120.00000477%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#03447a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan3437"
+             x="557"
+             y="458">  • Каталог фирм</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3439"
+             x="557"
+             y="486.79999">  • Биржа труда</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3441"
+             x="557"
+             y="515.59998">  • Недвижимость</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3443"
+             x="557"
+             y="544.40002">  • Объявления</tspan><tspan
+             sodipodi:role="line"
+             id="tspan3445"
+             x="557"
+             y="573.20001">  • Интернет-магазины</tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text3447"
+           y="604"
+           x="705"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#03447a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan3451"
+             x="705"
+             y="604">на WWW.PIC-NK.RU</tspan></text>
+        <flowRoot
+           transform="matrix(7.0769949,0,0,7.0769949,-1703.6434,-359.05845)"
+           style="font-size:3.15650058px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.5;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#03457a;stroke-width:0.13152087;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter10051);enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           id="flowRoot9516"
+           xml:space="preserve"
+           inkscape:export-filename="E:\wp\pic-nk.ru\_Images\poster1.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><flowRegion
+             id="flowRegion9518"><rect
+               style="font-size:3.15650058px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#03457a;stroke-width:0.13152087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+               y="95"
+               x="303"
+               height="22"
+               width="203"
+               id="rect9520" /></flowRegion><flowPara
+             id="flowPara2531">Интернет технологии для развития бизнеса</flowPara></flowRoot>        <flowRoot
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="E:\wp\pic-nk.ru\_Images\poster1.png"
+           xml:space="preserve"
+           id="flowRoot10035"
+           style="font-size:3.15650058px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#03457a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+           transform="matrix(7.0769949,0,0,7.0769949,-1709.228,-354.40459)"><flowRegion
+             id="flowRegion10037"><rect
+               id="rect10039"
+               width="203"
+               height="22"
+               x="303"
+               y="95"
+               style="font-size:3.15650058px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#03457a;fill-opacity:1;font-family:Verdana;-inkscape-font-specification:Verdana Bold" /></flowRegion><flowPara
+             id="flowPara2529">Интернет технологии для развития бизнеса</flowPara></flowRoot>        <path
+           id="path4621"
+           d="M 1023.2871,187.94945 L 785.71287,187.94945 C 826.38568,276.19533 931.80431,223.00173 1023.2871,269.73831 L 1023.2871,187.94945 z"
+           style="fill:#03457a;stroke:none;stroke-width:0.25819498"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="E:\wp\pic-nk.ru\_Images\poster1.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <text
+           sodipodi:linespacing="120%"
+           id="text4192"
+           y="75.692688"
+           x="246.97461"
+           style="font-size:24.56064796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:120.00000477%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ebf0f3;fill-opacity:1;fill-rule:nonzero;stroke:#0d436f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49803922;visibility:visible;display:inline;overflow:visible;filter:url(#filter3807);enable-background:accumulate;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+           xml:space="preserve"
+           transform="matrix(0.5928586,0,0,0.5928586,692.08418,182.51218)"
+           inkscape:export-filename="E:\wp\pic-nk.ru\_Images\poster1.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan2550"
+             x="246.97461"
+             y="75.692688">e-mail: admin@pic-nk.ru</tspan></text>
+        <text
+           transform="matrix(0.5928586,0,0,0.5928586,662.73468,164.76597)"
+           xml:space="preserve"
+           style="font-size:24.56064796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:120.00000477%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ebf0f3;fill-opacity:1;fill-rule:nonzero;stroke:#0d436f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49803922;visibility:visible;display:inline;overflow:visible;filter:url(#filter3807);enable-background:accumulate;font-family:Tahoma;-inkscape-font-specification:Tahoma Bold"
+           x="246.97461"
+           y="75.692688"
+           id="text2540"
+           sodipodi:linespacing="120%"
+           inkscape:export-filename="E:\wp\pic-nk.ru\_Images\poster1.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+             sodipodi:role="line"
+             id="tspan5991"
+             x="246.97461"
+             y="75.692688">Телефон: 8-91-96-888-44-6</tspan><tspan
+             sodipodi:role="line"
+             id="tspan5993"
+             x="246.97461"
+             y="105.16547" /></text>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4080"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC"
+       transform="translate(31.523961,26.238509)"><flowRegion
+         id="flowRegion4082"><rect
+           id="rect4084"
+           width="631"
+           height="82"
+           x="-1"
+           y="4"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC" /></flowRegion><flowPara
+         id="flowPara4090">Портал интернет коммерции города Нижнекамска</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="contact"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       y="88"
+       x="0"
+       id="image2801"
+       height="520"
+       width="1024"
+       sodipodi:absref="E:\Work\_Images\Screens\contact_1024x470.jpg"
+       xlink:href="contact_1024x520.jpg" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4092"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC"
+       transform="translate(15.523961,24.23851)"><flowRegion
+         id="flowRegion4094"><rect
+           id="rect4096"
+           width="631"
+           height="82"
+           x="-1"
+           y="4"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC" /></flowRegion><flowPara
+         id="flowPara4100">Денежные переводы и платежи по системе «CONTACT»</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="pays_ikb"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       y="241.6279"
+       x="31"
+       id="image6782"
+       height="188.3721"
+       width="300"
+       sodipodi:absref="E:\Work\_Images\Cards\Card.png"
+       xlink:href="E:\Work\_Images\Cards\Card.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6786"
+       style="font-size:17.59011269px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#007ac9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71774048;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter6575);enable-background:accumulate;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'"
+       transform="matrix(1.5765777,0,0,1.3857793,-290.96989,-915.75415)"><flowRegion
+         id="flowRegion6788"><rect
+           id="rect6790"
+           width="1023"
+           height="33"
+           x="1"
+           y="735"
+           style="font-size:17.59011269px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#007ac9;fill-opacity:1;stroke:none;stroke-width:0.71774048;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'" /></flowRegion><flowPara
+         id="flowPara4913">Уважаемые владельцы пластиковых карт</flowPara><flowPara
+         id="flowPara4915">Нижнекамского филиала АК БАРС БАНКА «ИНТЕРКАМА»</flowPara></flowRoot>    <image
+       y="523.5"
+       x="363"
+       id="image4604"
+       height="101"
+       width="102"
+       sodipodi:absref="E:\Work\_Images\SOT\BEELINE.gif"
+       xlink:href="E:\Work\_Images\MOBILE\BEELINE.gif"
+       style="fill:#107635;fill-opacity:0.98431373" />
+    <image
+       y="491.5"
+       x="488.5"
+       id="image4717"
+       height="55"
+       width="213"
+       sodipodi:absref="E:\Work\_Images\SOT\megafon.gif"
+       xlink:href="E:\Work\_Images\MOBILE\megafon.gif"
+       style="fill:#107635;fill-opacity:0.98431373" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4829"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:129.99999523%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'"
+       transform="translate(-73,-271)"><flowRegion
+         id="flowRegion4831"><rect
+           id="rect4833"
+           width="663"
+           height="382"
+           x="436"
+           y="455"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'" /></flowRegion><flowPara
+         id="flowPara5348">Здесь Вы можете</flowPara><flowPara
+         id="flowPara5350">  • пополнить карту</flowPara><flowPara
+         id="flowPara5352">  • посмотреть остаток средств на карте,</flowPara><flowPara
+         id="flowPara5354">а так же оплатить:</flowPara><flowPara
+         id="flowPara5356">  •  коммунальные услуги</flowPara><flowPara
+         id="flowPara5358">  •  электроэнергию</flowPara><flowPara
+         id="flowPara5360">  •  газ</flowPara><flowPara
+         id="flowPara5362">  •  услуги связи: МТС, Мегафон, Билайн, Татинком, </flowPara><flowPara
+         id="flowPara5364">      Таттелеком, Ростелеком, Камател</flowPara><flowPara
+         id="flowPara5366">  •  и другие платежи...</flowPara></flowRoot>    <image
+       y="551.5"
+       x="495.5"
+       id="image3863"
+       height="56"
+       width="203.36842"
+       sodipodi:absref="E:\Work\_Images\SOT\tatincom2.gif"
+       xlink:href="E:\Work\_Images\MOBILE\tatincom2.gif" />
+    <image
+       y="547"
+       x="725.5"
+       id="image3876"
+       height="46"
+       width="243"
+       sodipodi:absref="E:\Work\_Images\SOT\rostelecom.gif"
+       xlink:href="E:\Work\_Images\MOBILE\rostelecom.gif" />
+    <image
+       y="499"
+       x="721"
+       id="image3889"
+       height="35"
+       width="270"
+       sodipodi:absref="E:\Work\_Images\SOT\tattelecom2.gif"
+       xlink:href="E:\Work\_Images\MOBILE\tattelecom2.gif" />
+    <image
+       y="495"
+       x="374.5"
+       id="image2646"
+       height="39"
+       width="80.867653"
+       sodipodi:absref="E:\Work\_Images\SOT\mts.gif"
+       xlink:href="E:\Work\_Images\MOBILE\mts.gif" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3764"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC"
+       transform="translate(31.52396,11.23851)"><flowRegion
+         id="flowRegion3766"><rect
+           id="rect3768"
+           width="750"
+           height="117"
+           x="-1"
+           y="4"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC" /></flowRegion><flowPara
+         id="flowPara3776">Обслуживание платиковых карт Нижнекамского</flowPara><flowPara
+         id="flowPara3778">филиала ОАО «Ак Барс» Банка «Интеркама»</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="logo_old"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       style="display:inline"
+       y="236.7442"
+       x="312.37445"
+       id="image10074"
+       height="269.25583"
+       width="428.81482"
+       sodipodi:absref="E:\Work\_Images\Cards\Card.png"
+       xlink:href="E:\Work\_Images\Cards\Card.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3675"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'"
+       transform="translate(-36.29687,12.70056)"><flowRegion
+         id="flowRegion3677"><rect
+           id="rect3679"
+           width="582"
+           height="76"
+           x="101"
+           y="15"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'" /></flowRegion><flowPara
+         id="flowPara3681">ОБСЛУЖИВАНИЕ ПЛАСТИКОВЫХ КАРТ</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="pays_abb"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6615"
+       style="font-size:18.94319916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#007ac9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71774048;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;filter:url(#filter6575);enable-background:accumulate;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'"
+       transform="matrix(1.5765777,0,0,1.3857793,138.80804,-892.51443)"><flowRegion
+         id="flowRegion6617"><rect
+           id="rect6619"
+           width="466.8508"
+           height="37.082073"
+           x="1"
+           y="735"
+           style="font-size:18.94319916px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#007ac9;fill-opacity:1;stroke:none;stroke-width:0.71774048;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'" /></flowRegion><flowPara
+         id="flowPara6639">Уважаемые владельцы пластиковых карт</flowPara><flowPara
+         id="flowPara6641">АК БАРС БАНКА</flowPara></flowRoot>    <image
+       y="514.57532"
+       x="535.04779"
+       id="image2820"
+       height="101"
+       width="102"
+       sodipodi:absref="E:\Work\_Images\SOT\BEELINE.gif"
+       xlink:href="E:\Work\_Images\MOBILE\BEELINE.gif"
+       style="fill:#107635;fill-opacity:0.98431373;display:inline" />
+    <image
+       y="540.57532"
+       x="320.54776"
+       id="image2822"
+       height="55"
+       width="213"
+       sodipodi:absref="E:\Work\_Images\SOT\megafon.gif"
+       xlink:href="E:\Work\_Images\MOBILE\megafon.gif"
+       style="fill:#107635;fill-opacity:0.98431373;display:inline" />
+    <image
+       y="539.32172"
+       x="635.50787"
+       id="image3915"
+       height="49.753624"
+       width="180.6842"
+       sodipodi:absref="E:\Work\_Images\SOT\tatincom2.gif"
+       xlink:href="E:\Work\_Images\MOBILE\tatincom2.gif" />
+    <image
+       y="540.07532"
+       x="218.42894"
+       id="image2659"
+       height="44.950356"
+       width="93.205887"
+       sodipodi:absref="E:\Work\_Images\SOT\mts.gif"
+       xlink:href="E:\Work\_Images\MOBILE\mts.gif" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2663"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'"
+       transform="translate(46.669048,-153.72286)"><flowRegion
+         id="flowRegion2665"><rect
+           id="rect2667"
+           width="588"
+           height="197"
+           x="213"
+           y="464"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'" /></flowRegion><flowPara
+         id="flowPara2671">Здесь Вы можете</flowPara><flowPara
+         id="flowPara2673">  • посмотреть остаток средств на карте,</flowPara><flowPara
+         id="flowPara2675">а так же оплатить:</flowPara><flowPara
+         id="flowPara2677">  •  коммунальные услуги</flowPara><flowPara
+         id="flowPara2679">  •  электроэнергию</flowPara><flowPara
+         id="flowPara2681">  •  услуги связи: МТС, Мегафон, Билайн, Татинком</flowPara><flowPara
+         id="flowPara2683">  •  и другие платежи...</flowPara></flowRoot>    <image
+       style="display:inline"
+       y="189.60808"
+       x="433.16327"
+       id="image3531"
+       height="100"
+       width="156.98529"
+       sodipodi:absref="E:\Work\_Images\logo\pastedpic_10092008_133406.png"
+       xlink:href="E:\Work\_Images\logo\pastedpic_10092008_133406.png" />
+    <image
+       y="189.60808"
+       x="242.34314"
+       id="image3544"
+       height="100"
+       width="156.04396"
+       sodipodi:absref="E:\Work\_Images\logo\pastedpic_10092008_133913.png"
+       xlink:href="E:\Work\_Images\logo\pastedpic_10092008_133913.png" />
+    <image
+       y="189.60811"
+       x="623.84314"
+       id="image3557"
+       height="100"
+       width="156.98529"
+       sodipodi:absref="E:\Work\_Images\logo\pastedpic_10092008_133933.png"
+       xlink:href="E:\Work\_Images\logo\pastedpic_10092008_133933.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3665"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC"
+       transform="translate(23.52396,25.238509)"><flowRegion
+         id="flowRegion3667"><rect
+           id="rect3669"
+           width="631"
+           height="82"
+           x="-1"
+           y="4"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:FranklinGothicMediumC;-inkscape-font-specification:FranklinGothicMediumC" /></flowRegion><flowPara
+         id="flowPara3758">Обслуживание платиковых карт ОАО «Ак Барс» Банка</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="logo"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       style="display:inline"
+       y="317.57361"
+       x="397.41422"
+       id="image6379"
+       height="150"
+       width="238.88887"
+       sodipodi:absref="E:\Work\_Images\Cards\Card.png"
+       xlink:href="E:\Work\_Images\Cards\Card.png" />
+    <image
+       style="display:inline"
+       y="317.57361"
+       x="117.41422"
+       id="image3493"
+       height="150"
+       width="235.71428"
+       sodipodi:absref="E:\Work\_Images\logo\pastedpic_10092008_133237.png"
+       xlink:href="E:\Work\_Images\logo\pastedpic_10092008_133237.png" />
+    <image
+       style="display:inline"
+       y="317.57361"
+       x="679.67523"
+       id="image3507"
+       height="150"
+       width="235.47794"
+       sodipodi:absref="E:\Work\_Images\logo\pastedpic_10092008_133406.png"
+       xlink:href="E:\Work\_Images\logo\pastedpic_10092008_133406.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3625"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'"
+       transform="translate(-52,15)"><flowRegion
+         id="flowRegion3627"><rect
+           id="rect3629"
+           width="580"
+           height="63"
+           x="101"
+           y="15"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'" /></flowRegion><flowPara
+         id="flowPara3633">ОБСЛУЖИВАНИЕ ПЛАСТИКОВЫХ КАРТ</flowPara></flowRoot>  </g>
+</svg>
