@@ -84,7 +84,7 @@ Stack
 Внутренний сайт с 12.03.2009 г.
 
 ### Скриношот внутреннего сайта в папке: «Screenshots\www.interkama.ru\» ###
-![Внутренний сайт](https://github.com/Nazir/Interkama/blob/master/Screenshots/www.interkama.ru/interkama_inner_main.png)
+![Внутренний сайт](./Screenshots/www.interkama.ru/interkama_inner_main.png)
 
 ---
 
